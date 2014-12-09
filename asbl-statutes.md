@@ -11,10 +11,12 @@ Les soussignés :
 - []()Schrijver Eric,NL, Alfred Cluysenaarstraat 12 – 1060 Saint-Gilles 
 - Vilayphiou Stéphanie, FR, rue de l’Hôtel des Monnaies 27 - 1060 Saint-Gilles 
 
+*The undersigned: For each founding physical member: last name, first name, address, place and date of birth*
+
 ont convenu de constituer une association sans but lucratif conformément
 à la loi du 27 juin 1921, adaptée et modifiée par la loi du 2 mai 2002, dont ils ont arrêté les statuts comme suit : 
 
-
+*have agreed on constituting a non-profit association in accordance with the law of the June 27, 1921, adapted and modified by the law of  May 2, 2002, which statutes are as such:*
 
 
 ##Titre I - Dénomination, siège social, but, durée
@@ -26,6 +28,7 @@ L’association est dénommée «Open Source Publishing», en abrégé «OSP».
 Cette dénomination doit figurer dans tous les actes, factures, annonces, publications, lettres, notes de commande et autres documents émanant de l’association, et être immédiatement précédée ou suivie des mots «association sans but lucratif» ou de l’abréviation
 «ASBL», avec l’indication précise de l’adresse du siège de l’association. 
 
+*The association is named “Open Source Publishing”, abbreviated into “OSP”. This name has to figure in all acts, bills, notices, publications, letters, order forms and all other documents coming from the association, and has to be immediately preceded or followed by the terms “non-profit association” or the abbreviation “asbl”, with the precise indication of the address of the registered office of the association.*
 
 ###Article 2 : Siège social
 
@@ -33,10 +36,14 @@ Son siège social est établi Avenue Princesse Élisabeth, 46 dans l’arrondiss
 
 Toute modification du siège social est de la compétence exclusive de l’assemblée générale qui votera sur ce point, conformément à la loi du 27 juin 1921, adaptée et modifiée par la loi du 2 mai 2002. 
 
+*Its registered office is established at Avenue Princesse Elisabeth 46 in the judicial district of 1030 Schaerbeek
+Any modifications of the judicial district is of the exclusive competence of the general assembly which will vote on this subject, in accordance with the law of June 27, 1921, adapted and modified by the law of May 2, 2002.*
 
 ###Article 3 : But, objet social poursuivi, champ d’action
 
-L’association OSP a pour objectif central de diffuser la culture libre et open source à Bruxelles et internationalement. Elle vise à stimuler une écosystème de pratiques qui rompent avec l’idée de création _ex nihilo_ et solitaire afin de favoriser l’échange et la réappropriation des œuvres. Elle vise également à investiguer sur le rôle des outils en particulier logiciels dans le processus de création, mène des projets graphiques commissionnés ou auto-initiés qui visent à tester les idées et outilsdéveloppéesdans des conditions professionnelles et à diffuser ces modèles alternatif d’organisation du travail.
+L’association OSP a pour objectif central de diffuser la culture libre et open source à Bruxelles et internationalement. Elle vise à stimuler une écosystème de pratiques qui rompent avec l’idée de création _ex nihilo_ et solitaire afin de favoriser l’échange et la réappropriation des œuvres. Elle vise également à investiguer sur le rôle des outils en particulier logiciels dans le processus de création, mène des projets graphiques commissionnés ou auto-initiés qui visent à tester les idées et outils développéesdans des conditions professionnelles et à diffuser ces modèles alternatif d’organisation du travail.
+
+*The association OSP has as its main goal to diffuse free and open source culture in Brussels and internationally. [E: From last meeting—what is free and open source culture?] It aims at stimulates an ecosystem of practices breaking up with the idea of ex nihilo and solitary creation in order to favor sharing and reappropriation of works. It also wants to research the role of tools (more particularly software) on the creative process and conduct graphical projects (commissioned or self-initiated) that aim to test OSP’s the ideas and tools developed by OSP in professional conditions. Finally it wants to diffuse its alternative models of organisation and work.*
 
 Elle poursuit la réalisation de son but par tous les moyens. 
 
@@ -48,12 +55,15 @@ L’association réalise ce but en étroite collaboration avec ses membres.
 
 Elle peut faire tout acte se rattachant directement ou indirectement à son but ou pouvant en amener le développement et en faciliter la réalisation. 
 
+*It pursues the realization of its goal by all means but in particular its activities focus on three axes: pedagogy, research and graphical creation. The association is produced by organizing public events (Print Parties), workshops, performances, exhibitions and lectures. Editing and publishing can also be means to serve its goal.
+
+The association produces its goal by all means, in close collaboration with its members. It can make any act linked, directly or undirectly, in whole or in part, to its goal or capable to lead to its development or facilitate its realization.*
 
 ###Article 4 : Durée de l’association
 
 L’association est constituée pour une durée indéterminée. Elle peut être dissoute en tout temps.
 
-
+*The association is constituted for an undetermined period. It can be dissolved at any time.*
 
 ##Titre II - Membres
 
