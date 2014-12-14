@@ -8,7 +8,7 @@ Les soussignés :
 - Loiseau,Ludivine, FR, rue Defacqz 13 - 1050 Ixelles 
 - Magnan,Sarah, FR, rue Franz Merjay 93 - 1050 Ixelles 
 - O’Neill Colm, IE,avenue Félix 6 - 1330 Rixensart, 1990, Ixelles 
-- []()Schrijver Eric,NL, Alfred Cluysenaarstraat 12 – 1060 Saint-Gilles 
+- Schrijver Eric,NL, Alfred Cluysenaarstraat 12 – 1060 Saint-Gilles 
 - Vilayphiou Stéphanie, FR, rue de l’Hôtel des Monnaies 27 - 1060 Saint-Gilles 
 
 *The undersigned: For each founding physical member: last name, first name, address, place and date of birth*
@@ -55,9 +55,9 @@ L’association réalise ce but en étroite collaboration avec ses membres.
 
 Elle peut faire tout acte se rattachant directement ou indirectement à son but ou pouvant en amener le développement et en faciliter la réalisation. 
 
-*It pursues the realization of its goal by all means but in particular its activities focus on three axes: pedagogy, research and graphical creation. The association is produced by organizing public events (Print Parties), workshops, performances, exhibitions and lectures. Editing and publishing can also be means to serve its goal.
+*It pursues the realization of its goal by all means but in particular its activities focus on three axes: pedagogy, research and graphical creation. The association is produced by organizing public events (Print Parties), workshops, performances, exhibitions and lectures. Editing and publishing can also be means to serve its goal.*
 
-The association produces its goal by all means, in close collaboration with its members. It can make any act linked, directly or undirectly, in whole or in part, to its goal or capable to lead to its development or facilitate its realization.*
+*The association produces its goal by all means, in close collaboration with its members. It can make any act linked, directly or undirectly, in whole or in part, to its goal or capable to lead to its development or facilitate its realization.*
 
 ###Article 4 : Durée de l’association
 
@@ -80,12 +80,15 @@ L’association est composée de membres effectifs et de membres adhérents.
 
 Le nombre de membres effectifs ne peut être inférieur à trois. Seuls les membres effectifs jouissent de la plénitude des droits accordés aux membres par la loi et les présents statuts.               
 
+*The association is composed of effective members (and adherent members). The number of effective membes cannot be less than two. Only effective members can benefit of the full rights granted to the members by the law and the present statutes.*
 
 ###Article 6 : Membres effectifs
 
 Ces membres sont ceux qui ont le plus de droits et d’obligations fixés par la loi.
 
 Ils ont le droit de vote à l’assemblée générale. C’est eux qui désignerons les administrateurs et le conseil d’administration. 
+
+*These are the members who have the more rights and duties set by the law. They have voting rights at the general assembly. They will designate the administrators and the board of directors.*
 
 - Gijs De Heij 
 - Pierre Huyghebaert 
@@ -119,12 +122,17 @@ L’assemblée générale décide des nouveaux membres effectifs selon les crit�
 
 La décision d’admission ou de refus est sans appel et ne doit pas être motivée par l’assemblée générale. Elle est portée à la connaissance du candidat par courriel. 
 
+**
+
 
 ###Article 6bis : Membres adhérents
 
 Les membres adhérents partagent les outils et les valeurs OSP. Ils participent ponctuellement aux projets du groupe, à l’occasion d’ateliers, de print parties, de recherches ou dans le cadre de publications et commandes. Ce sont des invités satellites, des branches sauvages.
 
 Ils peuvent utiliser l’espace de travail et les outils OSP (plotters, font scanner, tabliers, etc). Ils sont invités à copier, modifier et distribuer tout ou parties de notre pratique et à nous le rapporter. Ils peuvent prendre part aux projets avec les membres effectifs et dans ce cas bénéficier de financements demandés pour eux au nom d’OSP.
+
+*Adherent  members share OSP values and tools. They participate punctually with the group, on specific workshops, research, publications or commissions.
+They  are featured guests and wild branches. They can use, after being  informed of the how-to, the working space and tools of OSP (plotters,  font scanner, pans, aprons).They copy, modify and distribute pieces of  our practice and tools and report it back to us. They can take part in a  project along effective members and in that case subsidies can be asked for them in the name of OSP.*
 
 
 ###Article 7 : Autres catégories de membres
@@ -143,6 +151,9 @@ Ce ne sont pas de vieux singes, mais plutôt de vrais champignons de forêt aupr
 
 Ils sont invités à l’assemblée générale et ont droit de vote, mais leur présence n’est pas obligatoire. Ils peuvent prendre part aux projets avec les membres effectifs et dans ce cas des financements  peuvent être demandés pour eux au nom d’OSP.
 
+*Source members are intrinsic parts of the OSP project story. We copy, modify and redistribute their thoughts freely. By keeping them close to us, we make sure OSP stays true to the spirit in which it was founded.
+Invited to the general assembly, they have the right to vote, but their presence is not mandatory. They can take part in a project along effective members and in that case subsidies can be asked for them in the name of OSP.*
+
 #### Membres observateurs  
 
 - xxx
@@ -151,6 +162,7 @@ Ils sont invités à l’assemblée générale et ont droit de vote, mais leur p
 
 Les membres observateurs sont issus de différents domaines et pratiques, enrichissant les perspectives du projet OSP. Nous nous fions à eux pour apporter des commentaires et réactions, pour étendre notre vision et connecter notre travail à d’autres pratiques et audiences. Les membres observateurs sont invités à l’assemblée générale pour échanger au sujet de l’asbl mais ils n’ont pas de droit de vote. Il n’est pas exclu que ces membres participent aux projets plus concrètement, mais l’idée première est qu’ils gardent une vue cartographique d’OSP.
 
+*They come from different fields of practice and give insight in the project of OSP asbl. We rely on observatory members for feedback, to expand our vision, to open us up towards new opportunities, to connect our work to other practices and to help us transmit our practice to other audiences. The observatory members  are invited to come to the general assembly to discuss about the asbl  but do not have the right to vote. It is not completely excluded for  them to take part more concretely in our practice, but the idea is that they keep a cartographic view on osp.*
 
 ###Article 8 : Démission – suspension – exclusion de membres et membres réputés démissionnaires
 

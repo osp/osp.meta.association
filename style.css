@@ -117,8 +117,8 @@ blockquote {
     font-size: @font-size;
     margin: @line-height 2 * @line-height;
 }
-p {
-    margin-bottom: 0;
+p, ul, ol {
+    margin-bottom: @line-height;
     clear: both;
 }
 p + p {
@@ -595,7 +595,7 @@ div#go-up {
 
 .CodeMirror {
     height: inherit !important;
-    outline: 1px solid blue;
+    /*outline: 1px solid blue;*/
 }
 
 .CodeMirror-sizer {
