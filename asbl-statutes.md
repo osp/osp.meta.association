@@ -1,341 +1,215 @@
-#OSP ASBL STATUTS
-
-Les soussignés : 
-
-- De Heij Gijs, NL, rue des Tanneurs 170 - 1000 Bruxelles  
-- Huyghebaert Pierre, BE, rue Cervantes 6 - 1190 Forest,  
-- Leray,FR, Alexandre rue de l’Hôtel des Monnaies 27 - 1060 Saint-Gilles 
-- Loiseau,Ludivine, FR, rue Defacqz 13 - 1050 Ixelles 
-- Magnan,Sarah, FR, rue Franz Merjay 93 - 1050 Ixelles 
-- O’Neill Colm, IE,avenue Félix 6 - 1330 Rixensart, 1990, Ixelles 
-- Schrijver Eric,NL, Alfred Cluysenaarstraat 12 – 1060 Saint-Gilles 
-- Vilayphiou Stéphanie, FR, rue de l’Hôtel des Monnaies 27 - 1060 Saint-Gilles 
-
-*The undersigned: For each founding physical member: last name, first name, address, place and date of birth*
-
-ont convenu de constituer une association sans but lucratif conformément
-à la loi du 27 juin 1921, adaptée et modifiée par la loi du 2 mai 2002, dont ils ont arrêté les statuts comme suit : 
-
-*have agreed on constituting a non-profit association in accordance with the law of the June 27, 1921, adapted and modified by the law of  May 2, 2002, which statutes are as such:*
-
-
-##Titre I - Dénomination, siège social, but, durée
-
-###Article 1 : Dénomination
-
-L’association est dénommée «Open Source Publishing», en abrégé «OSP». 
-
-Cette dénomination doit figurer dans tous les actes, factures, annonces, publications, lettres, notes de commande et autres documents émanant de l’association, et être immédiatement précédée ou suivie des mots «association sans but lucratif» ou de l’abréviation
-«ASBL», avec l’indication précise de l’adresse du siège de l’association. 
-
-*The association is named “Open Source Publishing”, abbreviated into “OSP”. This name has to figure in all acts, bills, notices, publications, letters, order forms and all other documents coming from the association, and has to be immediately preceded or followed by the terms “non-profit association” or the abbreviation “asbl”, with the precise indication of the address of the registered office of the association.*
-
-###Article 2 : Siège social
-
-Son siège social est établi Avenue Princesse Élisabeth, 46 dans l’arrondissement judiciaire de 1030 Schaerbeek. 
-
-Toute modification du siège social est de la compétence exclusive de l’assemblée générale qui votera sur ce point, conformément à la loi du 27 juin 1921, adaptée et modifiée par la loi du 2 mai 2002. 
-
-*Its registered office is established at Avenue Princesse Elisabeth 46 in the judicial district of 1030 Schaerbeek
-Any modifications of the judicial district is of the exclusive competence of the general assembly which will vote on this subject, in accordance with the law of June 27, 1921, adapted and modified by the law of May 2, 2002.*
-
-###Article 3 : But, objet social poursuivi, champ d’action
-
-L’association OSP a pour objectif central de diffuser la culture libre et open source à Bruxelles et internationalement. Elle vise à stimuler une écosystème de pratiques qui rompent avec l’idée de création _ex nihilo_ et solitaire afin de favoriser l’échange et la réappropriation des œuvres. Elle vise également à investiguer sur le rôle des outils en particulier logiciels dans le processus de création, mène des projets graphiques commissionnés ou auto-initiés qui visent à tester les idées et outils développéesdans des conditions professionnelles et à diffuser ces modèles alternatif d’organisation du travail.
-
-*The association OSP has as its main goal to diffuse free and open source culture in Brussels and internationally. [E: From last meeting—what is free and open source culture?] It aims at stimulates an ecosystem of practices breaking up with the idea of ex nihilo and solitary creation in order to favor sharing and reappropriation of works. It also wants to research the role of tools (more particularly software) on the creative process and conduct graphical projects (commissioned or self-initiated) that aim to test OSP’s the ideas and tools developed by OSP in professional conditions. Finally it wants to diffuse its alternative models of organisation and work.*
-
-Elle poursuit la réalisation de son but par tous les moyens. 
-
-Ses activités se concentrent notamment sur trois axes : pédagogie, recherche et création graphique.
-
-L’association se produit publiquement par l’animation d’événements publics (Print Parties), d’ateliers, de workshops, de performances, d’expositions et de conférences. L’édition et la publication peuvent aussi être des moyens de servir son objectif. 
-
-L’association réalise ce but en étroite collaboration avec ses membres. 
-
-Elle peut faire tout acte se rattachant directement ou indirectement à son but ou pouvant en amener le développement et en faciliter la réalisation. 
-
-*It pursues the realization of its goal by all means but in particular its activities focus on three axes: pedagogy, research and graphical creation. The association is produced by organizing public events (Print Parties), workshops, performances, exhibitions and lectures. Editing and publishing can also be means to serve its goal.*
-
-*The association produces its goal by all means, in close collaboration with its members. It can make any act linked, directly or undirectly, in whole or in part, to its goal or capable to lead to its development or facilitate its realization.*
-
-###Article 4 : Durée de l’association
-
-L’association est constituée pour une durée indéterminée. Elle peut être dissoute en tout temps.
-
-*The association is constituted for an undetermined period. It can be dissolved at any time.*
-
-##Titre II - Membres
-
-
-###Article 5 : Composition
-
-Conseil d’administration :
-
-- xxx  
-- xxx 
-- xxx
-
-L’association est composée de membres effectifs et de membres adhérents. 
-
-Le nombre de membres effectifs ne peut être inférieur à trois. Seuls les membres effectifs jouissent de la plénitude des droits accordés aux membres par la loi et les présents statuts.               
-
-*The association is composed of effective members (and adherent members). The number of effective membes cannot be less than two. Only effective members can benefit of the full rights granted to the members by the law and the present statutes.*
-
-###Article 6 : Membres effectifs
-
-Ces membres sont ceux qui ont le plus de droits et d’obligations fixés par la loi.
-
-Ils ont le droit de vote à l’assemblée générale. C’est eux qui désignerons les administrateurs et le conseil d’administration. 
-
-*These are the members who have the more rights and duties set by the law. They have voting rights at the general assembly. They will designate the administrators and the board of directors.*
-
-- Gijs De Heij 
-- Pierre Huyghebaert 
-- Alexandre Leray 
-- Ludivine Loiseau 
-- Sarah Magnan 
-- Colm O’Neill 
-- Eric Schrijver 
-- Stéphanie Vilayphiou 
-
-Pour être membre effectif, il faut remplir les conditions suivantes : 
-
-1. avoir écrit une lettre de motivation 
-2. être prêt à publier ses fichiers sources sous licence libre  
-3. avoir une pratique ou faire preuve d’un réel engagement de pratique de logiciels libres ou open source, en tout ou partie de son processus de travail 
-4. montrer une capacité à travailler de manière collaborative  
-5. avoir lu les textes suivants :     
-- les statuts de l’asbl  
-- l’accord de collaboration OSP  
-- <http://f-u-t-u-r-e.org/r/02_OSP_Relearn_FR.md>
-- <http://artlibre.org/licence/lal>
-- [http://creativecommons.org/licenses/b](http://creativecommons.org/licenses/by-sa/3.0/)[y](http://creativecommons.org/licenses/by-sa/3.0/)[sa/3.0/](http://creativecommons.org/licenses/by-sa/3.0/) 
-6. avoir une bonne pratique de la langue anglaise 
-7. être accepté par vote à l’assemblée générale 
-
-L’assemblée générale décide des nouveaux membres effectifs selon les critères suivants : 
-
-- le nouveau membre montre une capacité de travailler de manière collaborative  
-- il/elle ajoute une expertise à l’asbl  
-- il/elle montre une capacité d’élargir et d’approfondir sa pratique en faisant de la recherche (artistique ou académique). 
-
-La décision d’admission ou de refus est sans appel et ne doit pas être motivée par l’assemblée générale. Elle est portée à la connaissance du candidat par courriel. 
-
-**
-
-
-###Article 6bis : Membres adhérents
-
-Les membres adhérents partagent les outils et les valeurs OSP. Ils participent ponctuellement aux projets du groupe, à l’occasion d’ateliers, de print parties, de recherches ou dans le cadre de publications et commandes. Ce sont des invités satellites, des branches sauvages.
-
-Ils peuvent utiliser l’espace de travail et les outils OSP (plotters, font scanner, tabliers, etc). Ils sont invités à copier, modifier et distribuer tout ou parties de notre pratique et à nous le rapporter. Ils peuvent prendre part aux projets avec les membres effectifs et dans ce cas bénéficier de financements demandés pour eux au nom d’OSP.
-
-*Adherent  members share OSP values and tools. They participate punctually with the group, on specific workshops, research, publications or commissions.
-They  are featured guests and wild branches. They can use, after being  informed of the how-to, the working space and tools of OSP (plotters,  font scanner, pans, aprons).They copy, modify and distribute pieces of  our practice and tools and report it back to us. They can take part in a  project along effective members and in that case subsidies can be asked for them in the name of OSP.*
-
-
-###Article 7 : Autres catégories de membres
-
-Les autres types de membres peuvent être : 
-
-#### Membres « sources » 
-
-- xxx
-- xxx
-- xxx 
-
-Les membres sources font partie intrinsèque de l’histoire du projet OSP. Nous pouvons copier, modifier et redistribuer leurs pensées librement.
-
-Ce ne sont pas de vieux singes, mais plutôt de vrais champignons de forêt auprès desquels une visite régulière nous garantit une certaine involution.
-
-Ils sont invités à l’assemblée générale et ont droit de vote, mais leur présence n’est pas obligatoire. Ils peuvent prendre part aux projets avec les membres effectifs et dans ce cas des financements  peuvent être demandés pour eux au nom d’OSP.
-
-*Source members are intrinsic parts of the OSP project story. We copy, modify and redistribute their thoughts freely. By keeping them close to us, we make sure OSP stays true to the spirit in which it was founded.
-Invited to the general assembly, they have the right to vote, but their presence is not mandatory. They can take part in a project along effective members and in that case subsidies can be asked for them in the name of OSP.*
-
-#### Membres observateurs  
-
-- xxx
-- xxx
-- xxx 
-
-Les membres observateurs sont issus de différents domaines et pratiques, enrichissant les perspectives du projet OSP. Nous nous fions à eux pour apporter des commentaires et réactions, pour étendre notre vision et connecter notre travail à d’autres pratiques et audiences. Les membres observateurs sont invités à l’assemblée générale pour échanger au sujet de l’asbl mais ils n’ont pas de droit de vote. Il n’est pas exclu que ces membres participent aux projets plus concrètement, mais l’idée première est qu’ils gardent une vue cartographique d’OSP.
-
-*They come from different fields of practice and give insight in the project of OSP asbl. We rely on observatory members for feedback, to expand our vision, to open us up towards new opportunities, to connect our work to other practices and to help us transmit our practice to other audiences. The observatory members  are invited to come to the general assembly to discuss about the asbl  but do not have the right to vote. It is not completely excluded for  them to take part more concretely in our practice, but the idea is that they keep a cartographic view on osp.*
-
-###Article 8 : Démission – suspension – exclusion de membres et membres réputés démissionnaires
-
-Tout membre effectif ou adhérent est libre de se retirer de l’association en adressant par courriel sa démission au conseil d’administration.
-
-Est réputé démissionnaire : 
-
-- le membre effectif qui n’assiste pas ou qui ne se fait pas représenter à 3 assemblées générales consécutives.  
-
-L’exclusion d’un membre effectif ne peut être prononcée que par l’assemblée
-générale à la majorité des 2/3 des voix présentes ou représentées. Le conseil d’administration peut suspendre, jusqu’à décision de l’assemblée générale, les membres qui se seraient rendus coupables d’infraction grave aux statuts ou aux lois.
-
-L’exclusion d’un membre effectif requiert les conditions suivantes : 
-
-1. La mention dans l’ordre du jour de l’assemblée générale de la proposition d’exclusion avec la mention, au moins sommaire, de la raison de cette proposition 
-2. La convocation régulière d’une assemblée générale où tous les membres effectifs doivent être convoqués 
-3. La décision de l’assemblée générale doit être prise à la majorité des 2/3 des voix des membres effectifs présents ou représentés mais aucun quorum de présence n’est exigé 
-4. Le respect des droits de la défense, c’est-à-dire l’audition du membre dont l’exclusion est demandée, si celui-ci le souhaite 
-5. La mention dans le registre de l’exclusion du membre effectif.  
-
-S’agissant d’une décision concernant une personne, celle-ci devra impérativement être prise par vote secret.
-
-La qualité de membre se perd automatiquement par le décès ou, s’il s’agit d’une personne morale, par la dissolution, la fusion, la scission, la nullité ou la faillite. 
-
-Le membre démissionnaire, suspendu ou exclu, ainsi que les héritiers ou ayants droit du membre décédé, n’ont aucun droit sur le fonds social de l’association. Ils ne peuvent réclamer ou requérir ni relevé, ni reddition de compte, ni apposition de scellés, ni inventaires, ni le remboursement des cotisations versées. 
-
-
-###Article 9 : Registre des membres effectifs
-
-L’association doit tenir un registre des membres effectifs, sous la responsabilité du conseil d’administration. 
-
-Toute décision d’admission, de démission ou d’exclusion de membres effectifs est inscrite au registre à la diligence du conseil d’administration dans les huit jours de la connaissance que le conseil a eu des modifications intervenues. 
-
-Tous les membres peuvent consulter, au siège social de l’association, le registre des membres, ainsi que tous les procès-verbaux et décisions de l’assemblée générale, du conseil d’administration, de même que tous les documents comptables de l’association, sur simple demande écrite et motivée adressée au conseil d’administration. Les membres sont tenus de préciser les documents auxquels ils souhaitent avoir accès. Le conseil d’administration convient d’une date de consultation des documents avec les membres. Cette date sera fixée dans un délai d’un mois à partir de la réception de la demande. 
-
-
-
-##Titre III - Cotisations
-
-
-###Article 10 : Cotisations
-
-Les membres ne sont astreints à aucun droit d’entrée, ni à aucune cotisation. 
-
-
-
-##Titre IV - Assemblée générale
-
-
-###Article 11 : Composition
-
-L’assemblée générale est composée de tous les membres effectifs et présidée par un administrateur désigné en préambule à chaque réunion. Les membres adhérents peuvent y être invités, mais ils n’ont pas le droit de vote. 
-
-
-###Article 12 : Pouvoirs
-
-L’assemblée générale est le pouvoir souverain de l’association. Elle est notamment compétente pour : 
-
-- la modification des statuts ;  
-- l’exclusion de membres ;  
-- la nomination et la révocation des administrateurs, des vérificateurs aux comptes et du ou des liquidateurs ;  
-- la fixation de la rémunération des vérificateurs aux comptes dans les cas où une rémunération est attribuée ;  
-- l’approbation des comptes et des budgets ;  
-- la décharge à octroyer annuellement aux administrateurs, aux vérificateurs aux comptes et, en cas de dissolution volontaire, aux liquidateurs ;  
-- la dissolution volontaire de l’association ;  
-- la transformation éventuelle en société à finalité sociale ;  
-- la décision de la destination de l’actif en cas de dissolution de l’association;  
-- tous les cas exigés dans les statuts.  
-- l’admission de nouveaux membres (selon ce qui a été décidé à l’article 6);  
-- la fixation du montant de la cotisation annuelle incombant aux membres (selon ce qui a été décidé à l’article 10); 
-- l’approbation du règlement d’ordre intérieur et ses modifications;  
-- décider d’intenter une action en responsabilité contre tout membre de l’association, tout  administrateur, tout vérificateur aux comptes (ou commissaire aux comptes), toute personne habilitée à représenter l’association ou tout mandataire désigné par l’assemblée générale ;  
-- considérer un membre comme présumé démissionnaire par défaut de paiement des cotisations qui lui incombent (selon ce qui a été décidé à l’article 8).  
-
-
-###Article 13 : Convocation – Assemblée générale ordinaire
-
-Tous les membres effectifs sont convoqués à l’assemblée générale ordinaire, au moins une fois par an dans le courant du mois de mai.
-
-L’assemblée générale est convoquée par l’administrateur désigné par le conseil d’administration, par courriel au moins quinze jours avant la date de celle-ci. La convocation doit préciser la date, l’heure, le lieu et l’ordre du jour. 
-
-
-###Article 14 : Délibération
-
-L’assemblée générale délibère valablement dès que la moitié de ses membres est présente ou représentée,  sauf dans le cas où la loi du 27 juin 1921, adaptée et modifiée par la loi du 2 mai 2002 exige un quorum de présences et un quorum de votes (modification statutaire, exclusion d’un membre, dissolution de l’ASBL ou transformation en société à finalité sociale). 
-
-L’assemblée ne peut délibérer valablement que sur les points inscrits à l’ordre du jour. 
-
-L’assemblée générale doit être convoquée par le conseil d’administration
-lorsque un cinquième des membres en fait la demande écrite. De même, toute proposition signée par un vingtième des membres doit être portée à l’ordre du jour de l’assemblée générale suivante.
-
-
-###Article 15 : Représentation
-
-Tous les membres effectifs ont un droit de vote égal à l’assemblée générale. 
-
-Tout membre effectif peut se faire représenter par un autre membre effectif à qui il donne procuration écrite. Tout membre ne peut détenir qu’une procuration. 
-
-Les décisions sont prises à la majorité simple des voix présentes ou représentées, sauf dans le cas où il en est décidé autrement par la loi ou les présents statuts. 
-
-En cas de partage des voix, le point est reporté à la prochaine assemblée générale. 
-
-
-###Article 16 : Modifications statutaires et dissolutions
-
-L’assemblée générale ne peut valablement délibérer sur la dissolution de l’association ou la modification des statuts que conformément à la loi du 27 juin 1921, adaptée et modifiée par la loi du 2 mai 2002. 
-
-Toute modification aux statuts ou décision relative à la dissolution doit être déposée, dans le mois de sa date, au greffe du tribunal de commerce pour publication aux Annexes du Moniteur belge. Il en est de même pour toute nomination ou cessation de fonction d’un administrateur, d’une personne habilitée à représenter l’association, d’une personne déléguée à la gestion journalière ou d’un vérificateur aux comptes. 
-
-
-###Article 17 : Publicité des décisions prises par l’assemblée générale
-
-Les convocations et procès-verbaux, dans lesquels sont consignées les décisions de l’assemblée générale, ainsi que tous les documents comptables, sont signés par un administrateur. Ils sont conservés dans un registre au siège de l’association et peuvent y être consultés par tous les membres et par des tiers s’ils en justifient la raison et que celle-ci est acceptée par le conseil d’administration. 
-
-
-
-##Titre V - Conseil d’administration
-
-
-###Article 18 : Nomination et nombre minimum d’administrateurs – Durée du mandat
-
-L’association est administrée par un conseil d’administration composé de 3
-membres au moins (dont un président, un secrétaire général et un trésorier) et de 15? (à préciser) au plus, nommés et révocables par l’assemblée générale. 12(?) administrateurs maximum sont choisis parmi les membres effectifs et 3 administrateurs maximum
-peuvent être choisis parmi des personnes non-membres effectifs à l’association. Les candidatures comme administrateur devront parvenir par courriel, signées par six membres effectifs, candidat compris, soit au Président, soit au Secrétaire général en fonction, et ceci trente jours au moins avant l’assemblée générale.
-
-Le nombre d’administrateurs sera toujours inférieur au nombre de membres effectifs de l’assemblée générale. 
-
-La durée du mandat est illimité.
-
-Leur mandat n’expire que par décès, démission ou révocation.
-
-Les administrateurs sortants sont rééligibles.
-
-En cas de vacance d’un mandat, un administrateur peut être nommé à titre provisoire par l’assemblée générale. Il achève dans ce cas le mandat de l’administrateur qu’il remplace. 
-
-
-###Article 19 : Démission
-
-Tout administrateur qui veut démissionner doit signifier sa décision par courriel au conseil d’administration. 
-
-
-###Article 20 : Fréquence des réunions
-
-Le conseil d’administration se réunit dès que les besoins s’en font sentir. Il est convoqué à la demande de deux administrateurs au moins. Il est présidé par un administrateur désigné en préambule à chaque réunion.
-
-
-###Article 21 : Délibération
-
-Le conseil ’administration délibère valablement dès que la moitié de ses membres est présente ou représentée. Les décisions du conseil d’administration sont prises à la majorité simple des voix présentes ou représentées. 
-
-En cas de partage des voix le point est reporté au prochain conseil d’administration.
-
-
-###Article 22 : Pouvoirs
-
-Le conseil d’administration a les pouvoirs les plus étendus pour l’administration et la gestion de l’association. Le conseil d’administration fonctionne sur le principe du collège. Toutes les attributions qui ne sont pas expressément réservées par la loi ou les statuts à l’assemblée générale seront exercées par le conseil d’administration. 
-
-Il peut notamment, sans que cette énumération soit limitative, faire et passer tous les actes et contrats, ouvrir et gérer tout compte bancaire, transiger, compromettre, acquérir, échanger, vendre tout bien, meuble ou immeuble, hypothéquer, emprunter, conclure des baux, accepter tous leg, subside, donation et transfert, renoncer à tout droit, représenter l’association en justice, tant en défendant qu’en demandant. Il peut aussi nommer et révoquer le personnel de l’association. 
-
-
-###Article 23 : Délégation à la gestion journalière
-
-Le conseil d’administration peut déléguer certains pouvoirs à plusieurs personnes, administrateurs ou non, agissant conjointement.
-
-Les pouvoirs de l’organe de gestion journalière sont limités aux actes de gestion quotidienne de l’association qui permet d’accomplir les actes d’administration :
-
-- qui ne dépassent pas les besoins de la vie quotidienne de l’ASBL,  
-- qui, en raison de leur peu d’importance et de la nécessité d’une prompte solution, ne justifient pas l’intervention du conseil d’administration. La durée du mandat des délégués à la gestion journalière, éventuellement renouvelable, est fixée par le conseil d’administration. Quand le délégué à la gestion journalière exerce également la fonction d’administrateur, la fin du mandat d’administrateur entraîne automatiquement la fin du mandat du délégué à la gestion journalière.  
-
-Le conseil d’administration peut, à tout moment et sans qu’il doive se justifier, mettre fin à la fonction exercée par la personne chargée de la gestion journalière. 
-
-
-###Article 24 : Représentation
-
-L’association peut être valablement représentée dans tous les actes ou en justice par deux administrateurs au moins désignés par le conseil d’administration agissant conjointement qui en tant qu’organe, ne devront pas justifier vis-à-vis des tiers d’une décision préalable et d’une procuration du conseil d’administration.
-
+<!DOCTYPE html><meta charset="utf-8"><title></title><style>/* http://meyerweb.com/eric/tools/css/reset/v2.0 | 20110126License: none (public domain)*/html, body, div, span, applet, object, iframe,h1, h2, h3, h4, h5, h6, p, blockquote, pre,a, abbr, acronym, address, big, cite, code,del, dfn, em, img, ins, kbd, q, s, samp,small, strike, strong, sub, sup, tt, var,b, u, i, center,dl, dt, dd, ol, ul, li,fieldset, form, label, legend,table, caption, tbody, tfoot, thead, tr, th, td,article, aside, canvas, details, embed,figure, figcaption, footer, header, hgroup,menu, nav, output, ruby, section, summary,time, mark, audio, video {margin: 0;padding: 0;border: 0;font-size: 100%;font: inherit;vertical-align: baseline;}/* HTML5 display-role reset for older browsers */article, aside, details, figcaption, figure,footer, header, hgroup, menu, nav, section {display: block;}body {line-height: 1;}ol, ul {list-style: none;}blockquote, q {quotes: none;}blockquote:before, blockquote:after,q:before, q:after {content: '';content: none;}table {border-collapse: collapse;border-spacing: 0;}</style><link rel="stylesheet" href="/cm/lib/codemirror.css"><script type="text/javascript" src="/cm/lib/codemirror.js"></script><script type="text/javascript">CodeMirror.modeURL = "/cm/mode/%N/%N.js";</script><script type="text/javascript" src="/cm/addon/mode/loadmode.js"></script><script type="text/javascript" src="/cm/mode/meta.js"></script><script type="text/javascript" src="/showdown/showdown.js"></script><link rel="stylesheet/less" href="/style.css"><script src="//cdnjs.cloudflare.com/ajax/libs/less.js/2.1.0/less.min.js"></script><body class="read"><div class="wrap screen-only" style="min-height: 15%;"><div class="left-side screen-only"><h1><a href="/">Ethertoff.js</a></h1></div><div class="middle"><h1 class="inline"></h1><div id="switch"> <a class="button active" href="/r/asbl-statutes.md">Read</a><a class="button " href="/w/asbl-statutes.md">Write</a> <a class="button" href="/raw/asbl-statutes.md">Raw</a> <a class="button" href="#" onclick="window.print()">Print</a></div></div><div class="right-side"><ul id="account-buttons"><li><a class="button" href="/accounts/login">Log in</a></li></ul></div></div><div class="wrap" style="height: 85%;"><div class="left-side screen-only"><nav><ul><li><a href="/r/ethertoff-write-read-print.gif">ethertoff-write-read-print.gif</a></li><li><a href="/r/index.html">index.html</a></li><li><a href="/r/"></a></li><li><a href="/r/programme::schedule">programme::schedule</a></li><li><a href="/r/start.html">start.html</a></li><li><a href="/r/bla.html">bla.html</a></li><li><a href="/r/about.html">about.html</a></li><li><a href="/r/7446df6f-f761-489d-addd-1ad97690dd0c">7446df6f-f761-489d-addd-1ad97690dd0c</a></li><li><a href="/r/72c60c97-c5d4-48c2-a659-6a4a4a1a6e62">72c60c97-c5d4-48c2-a659-6a4a4a1a6e62</a></li><li><a href="/r/asbl-statutes.md">asbl-statutes.md</a></li><li><a href="/r/style.css">style.css</a></li><li><a href="/r/roi.md">roi.md</a></li><li><a href="/r/to-do.md">to-do.md</a></li><li><a href="/r/meeting-minutes.md">meeting-minutes.md</a></li></ul></nav></div><div id="content" class="middle cover "><!--d-showdown:index--><div class="d-showdown"></div><div></div></div><div class="right-side screen-only"><h2>asbl-statutes.md</h2><dl><dt>Mimetype</dt><dd>text/x-markdown</dd></dl></div></div><script async src="/derby/app-172e035062a73928d6756e8c129c0aa0.js"></script><script type="application/json">{
+  "queries": [
+    [
+      [
+        [
+          1
+        ]
+      ],
+      "documents",
+      {
+        "path": "asbl-statutes.md"
+      },
+      [
+        "973e3939-9f35-41d7-8608-af84f8bfd64d"
+      ],
+      [
+        {
+          "absPath": "/home/osp/apps/osp.tools.ethertoff.js/example_content/asbl-statutes.md",
+          "path": "asbl-statutes.md",
+          "mime": "text/x-markdown",
+          "binary": false,
+          "text": "Here is a list with minimal ASBL elements:\n\n- la dénomination complète et l'adresse du siège de l'ASBL, l'arrondissement où elle est établie ;\n- l'objet social poursuivi ;\n- une distinction éventuelle entre membres actifs (minimum 3) et non actifs ;\n- le nom, l'adresse et la nationalité des fondateurs ;\n- le montant maximal de la cotisation ;\n- les conditions de nomination des administrateurs ;\n- la procédure de modification des statuts ;\n- les responsables pour la gestion des comptes et des budgets ;\n- la destination du capital en cas de dissolution ;\n- les pouvoirs de l'Assemblée Générale (AG).\n\n\n#OSP ASBL STATUTS\n\nLes soussignés : \n\n- De Heij Gijs, NL, rue des Tanneurs 170 - 1000 Bruxelles  \n- Huyghebaert Pierre, BE, rue Cervantes 6 - 1190 Forest,  \n- Leray,FR, Alexandre rue de l’Hôtel des Monnaies 27 - 1060 Saint-Gilles \n- Loiseau,Ludivine, FR, rue Defacqz 13 - 1050 Ixelles \n- Magnan,Sarah, FR, rue Franz Merjay 93 - 1050 Ixelles \n- O’Neill Colm, IE,avenue Félix 6 - 1330 Rixensart, 1990, Ixelles \n- Schrijver Eric,NL, Alfred Cluysenaarstraat 12 – 1060 Saint-Gilles \n- Vilayphiou Stéphanie, FR, rue de l’Hôtel des Monnaies 27 - 1060 Saint-Gilles \n\n*The undersigned: For each founding physical member: last name, first name, address, place and date of birth*\n\nont convenu de constituer une association sans but lucratif conformément\nà la loi du 27 juin 1921, adaptée et modifiée par la loi du 2 mai 2002, dont ils ont arrêté les statuts comme suit : \n\n*have agreed on constituting a non-profit association in accordance with the law of the June 27, 1921, adapted and modified by the law of  May 2, 2002, which statutes are as such:*\n\n\n##Titre I - Dénomination, siège social, but, durée\n\n###Article 1 : Dénomination\n\nL’association est dénommée «Open Source Publishing», en abrégé «OSP». \n\nCette dénomination doit figurer dans tous les actes, factures, annonces, publications, lettres, notes de commande et autres documents émanant de l’association, et être immédiatement précédée ou suivie des mots «association sans but lucratif» ou de l’abréviation\n«ASBL», avec l’indication précise de l’adresse du siège de l’association. \n\n*The association is named “Open Source Publishing”, abbreviated into “OSP”. This name has to figure in all acts, bills, notices, publications, letters, order forms and all other documents coming from the association, and has to be immediately preceded or followed by the terms “non-profit association” or the abbreviation “asbl”, with the precise indication of the address of the registered office of the association.*\n\n###Article 2 : Siège social\n\nSon siège social est établi Avenue Princesse Élisabeth, 46 dans l’arrondissement judiciaire de 1030 Schaerbeek. \n\nToute modification du siège social est de la compétence exclusive de l’assemblée générale qui votera sur ce point, conformément à la loi du 27 juin 1921, adaptée et modifiée par la loi du 2 mai 2002. \n\n*Its registered office is established at Avenue Princesse Elisabeth 46 in the judicial district of 1030 Schaerbeek\nAny modifications of the judicial district is of the exclusive competence of the general assembly which will vote on this subject, in accordance with the law of June 27, 1921, adapted and modified by the law of May 2, 2002.*\n\n###Article 3 : But, objet social poursuivi, champ d’action\n\nL’association OSP a pour objectif central de diffuser la culture libre et open source à Bruxelles et internationalement. Elle vise à stimuler une écosystème de pratiques qui rompent avec l’idée de création _ex nihilo_ et solitaire afin de favoriser l’échange et la réappropriation des œuvres. Elle vise également à investiguer sur le rôle des outils en particulier logiciels dans le processus de création, mène des projets graphiques commissionnés ou auto-initiés qui visent à tester les idées et outils développéesdans des conditions professionnelles et à diffuser ces modèles alternatif d’organisation du travail.\n\n*The association OSP has as its main goal to diffuse free and open source culture in Brussels and internationally. [E: From last meeting—what is free and open source culture?] It aims at stimulates an ecosystem of practices breaking up with the idea of ex nihilo and solitary creation in order to favor sharing and reappropriation of works. It also wants to research the role of tools (more particularly software) on the creative process and conduct graphical projects (commissioned or self-initiated) that aim to test OSP’s the ideas and tools developed by OSP in professional conditions. Finally it wants to diffuse its alternative models of organisation and work.*\n\nElle poursuit la réalisation de son but par tous les moyens. \n\nSes activités se concentrent notamment sur trois axes : pédagogie, recherche et création graphique.\n\nL’association se produit publiquement par l’animation d’événements publics (Print Parties), d’ateliers, de workshops, de performances, d’expositions et de conférences. L’édition et la publication peuvent aussi être des moyens de servir son objectif. \n\nL’association réalise ce but en étroite collaboration avec ses membres. \n\nElle peut faire tout acte se rattachant directement ou indirectement à son but ou pouvant en amener le développement et en faciliter la réalisation. \n\n*It pursues the realization of its goal by all means but in particular its activities focus on three axes: pedagogy, research and graphical creation. The association is produced by organizing public events (Print Parties), workshops, performances, exhibitions and lectures. Editing and publishing can also be means to serve its goal.*\n\n*The association produces its goal by all means, in close collaboration with its members. It can make any act linked, directly or undirectly, in whole or in part, to its goal or capable to lead to its development or facilitate its realization.*\n\n###Article 4 : Durée de l’association\n\nL’association est constituée pour une durée indéterminée. Elle peut être dissoute en tout temps.\n\n*The association is constituted for an undetermined period. It can be dissolved at any time.*\n\n##Titre II - Membres\n\n\n###Article 5 : Composition\n\nConseil d’administration :\n\n- xxx  \n- xxx \n- xxx\n\n\n###Article 8 : Démission – suspension – exclusion de membres et membres réputés démissionnaires\n\nTout membre effectif ou adhérent est libre de se retirer de l’association en adressant par courriel sa démission au conseil d’administration.\n\nEst réputé démissionnaire : \n\n- le membre effectif qui n’assiste pas ou qui ne se fait pas représenter à 3 assemblées générales consécutives.  \n\nL’exclusion d’un membre effectif ne peut être prononcée que par l’assemblée\ngénérale à la majorité des 2/3 des voix présentes ou représentées. Le conseil d’administration peut suspendre, jusqu’à décision de l’assemblée générale, les membres qui se seraient rendus coupables d’infraction grave aux statuts ou aux lois.\n\nL’exclusion d’un membre effectif requiert les conditions suivantes : \n\n1. La mention dans l’ordre du jour de l’assemblée générale de la proposition d’exclusion avec la mention, au moins sommaire, de la raison de cette proposition \n2. La convocation régulière d’une assemblée générale où tous les membres effectifs doivent être convoqués \n3. La décision de l’assemblée générale doit être prise à la majorité des 2/3 des voix des membres effectifs présents ou représentés mais aucun quorum de présence n’est exigé \n4. Le respect des droits de la défense, c’est-à-dire l’audition du membre dont l’exclusion est demandée, si celui-ci le souhaite \n5. La mention dans le registre de l’exclusion du membre effectif.  \n\nS’agissant d’une décision concernant une personne, celle-ci devra impérativement être prise par vote secret.\n\nLa qualité de membre se perd automatiquement par le décès ou, s’il s’agit d’une personne morale, par la dissolution, la fusion, la scission, la nullité ou la faillite. \n\nLe membre démissionnaire, suspendu ou exclu, ainsi que les héritiers ou ayants droit du membre décédé, n’ont aucun droit sur le fonds social de l’association. Ils ne peuvent réclamer ou requérir ni relevé, ni reddition de compte, ni apposition de scellés, ni inventaires, ni le remboursement des cotisations versées. \n\n\n###Article 9 : Registre des membres effectifs\n\nL’association doit tenir un registre des membres effectifs, sous la responsabilité du conseil d’administration. \n\nToute décision d’admission, de démission ou d’exclusion de membres effectifs est inscrite au registre à la diligence du conseil d’administration dans les huit jours de la connaissance que le conseil a eu des modifications intervenues. \n\nTous les membres peuvent consulter, au siège social de l’association, le registre des membres, ainsi que tous les procès-verbaux et décisions de l’assemblée générale, du conseil d’administration, de même que tous les documents comptables de l’association, sur simple demande écrite et motivée adressée au conseil d’administration. Les membres sont tenus de préciser les documents auxquels ils souhaitent avoir accès. Le conseil d’administration convient d’une date de consultation des documents avec les membres. Cette date sera fixée dans un délai d’un mois à partir de la réception de la demande. \n\n\n\n##Titre III - Cotisations\n\n\n###Article 10 : Cotisations\n\nLes membres ne sont astreints à aucun droit d’entrée, ni à aucune cotisation. \n\n\n\n##Titre IV - Assemblée générale\n\n\n###Article 11 : Composition\n\nL’assemblée générale est composée de tous les membres effectifs et présidée par un administrateur désigné en préambule à chaque réunion. Les membres adhérents peuvent y être invités, mais ils n’ont pas le droit de vote. \n\n\n###Article 12 : Pouvoirs\n\nL’assemblée générale est le pouvoir souverain de l’association. Elle est notamment compétente pour : \n\n- la modification des statuts ;  \n- l’exclusion de membres ;  \n- la nomination et la révocation des administrateurs, des vérificateurs aux comptes et du ou des liquidateurs ;  \n- la fixation de la rémunération des vérificateurs aux comptes dans les cas où une rémunération est attribuée ;  \n- l’approbation des comptes et des budgets ;  \n- la décharge à octroyer annuellement aux administrateurs, aux vérificateurs aux comptes et, en cas de dissolution volontaire, aux liquidateurs ;  \n- la dissolution volontaire de l’association ;  \n- la transformation éventuelle en société à finalité sociale ;  \n- la décision de la destination de l’actif en cas de dissolution de l’association;  \n- tous les cas exigés dans les statuts.  \n- l’admission de nouveaux membres (selon ce qui a été décidé à l’article 6);  \n- la fixation du montant de la cotisation annuelle incombant aux membres (selon ce qui a été décidé à l’article 10); \n- l’approbation du règlement d’ordre intérieur et ses modifications;  \n- décider d’intenter une action en responsabilité contre tout membre de l’association, tout  administrateur, tout vérificateur aux comptes (ou commissaire aux comptes), toute personne habilitée à représenter l’association ou tout mandataire désigné par l’assemblée générale ;  \n- considérer un membre comme présumé démissionnaire par défaut de paiement des cotisations qui lui incombent (selon ce qui a été décidé à l’article 8).  \n\n\n###Article 13 : Convocation – Assemblée générale ordinaire\n\nTous les membres effectifs sont convoqués à l’assemblée générale ordinaire, au moins une fois par an dans le courant du mois de mai.\n\nL’assemblée générale est convoquée par l’administrateur désigné par le conseil d’administration, par courriel au moins quinze jours avant la date de celle-ci. La convocation doit préciser la date, l’heure, le lieu et l’ordre du jour. \n\n\n###Article 14 : Délibération\n\nL’assemblée générale délibère valablement dès que la moitié de ses membres est présente ou représentée,  sauf dans le cas où la loi du 27 juin 1921, adaptée et modifiée par la loi du 2 mai 2002 exige un quorum de présences et un quorum de votes (modification statutaire, exclusion d’un membre, dissolution de l’ASBL ou transformation en société à finalité sociale). \n\nL’assemblée ne peut délibérer valablement que sur les points inscrits à l’ordre du jour. \n\nL’assemblée générale doit être convoquée par le conseil d’administration\nlorsque un cinquième des membres en fait la demande écrite. De même, toute proposition signée par un vingtième des membres doit être portée à l’ordre du jour de l’assemblée générale suivante.\n\n\n###Article 15 : Représentation\n\nTous les membres effectifs ont un droit de vote égal à l’assemblée générale. \n\nTout membre effectif peut se faire représenter par un autre membre effectif à qui il donne procuration écrite. Tout membre ne peut détenir qu’une procuration. \n\nLes décisions sont prises à la majorité simple des voix présentes ou représentées, sauf dans le cas où il en est décidé autrement par la loi ou les présents statuts. \n\nEn cas de partage des voix, le point est reporté à la prochaine assemblée générale. \n\n\n###Article 16 : Modifications statutaires et dissolutions\n\nL’assemblée générale ne peut valablement délibérer sur la dissolution de l’association ou la modification des statuts que conformément à la loi du 27 juin 1921, adaptée et modifiée par la loi du 2 mai 2002. \n\nToute modification aux statuts ou décision relative à la dissolution doit être déposée, dans le mois de sa date, au greffe du tribunal de commerce pour publication aux Annexes du Moniteur belge. Il en est de même pour toute nomination ou cessation de fonction d’un administrateur, d’une personne habilitée à représenter l’association, d’une personne déléguée à la gestion journalière ou d’un vérificateur aux comptes. \n\n\n###Article 17 : Publicité des décisions prises par l’assemblée générale\n\nLes convocations et procès-verbaux, dans lesquels sont consignées les décisions de l’assemblée générale, ainsi que tous les documents comptables, sont signés par un administrateur. Ils sont conservés dans un registre au siège de l’association et peuvent y être consultés par tous les membres et par des tiers s’ils en justifient la raison et que celle-ci est acceptée par le conseil d’administration. \n\n\n\n##Titre V - Conseil d’administration\n\n\n###Article 18 : Nomination et nombre minimum d’administrateurs – Durée du mandat\n\nL’association est administrée par un conseil d’administration composé de 3 membres au moins (dont un président, un secrétaire général et un trésorier) et de 15? (à préciser) au plus, nommés et révocables par l’assemblée générale. 12(?) administrateurs maximum sont choisis parmi les membres effectifs et 3 administrateurs maximum peuvent être choisis parmi des personnes non-membres effectifs à l’association. Les candidatures comme administrateur devront parvenir par courriel, signées par six membres effectifs, candidat compris, soit au Président, soit au Secrétaire général en fonction, et ceci trente jours au moins avant l’assemblée générale.\n\nLe nombre d’administrateurs sera toujours inférieur au nombre de membres effectifs de l’assemblée générale. \n\nLa durée du mandat est illimité.\n\nLeur mandat n’expire que par décès, démission ou révocation.\n\nLes administrateurs sortants sont rééligibles.\n\nEn cas de vacance d’un mandat, un administrateur peut être nommé à titre provisoire par l’assemblée générale. Il achève dans ce cas le mandat de l’administrateur qu’il remplace. \n\n\n###Article 19 : Démission\n\nTout administrateur qui veut démissionner doit signifier sa décision par courriel au conseil d’administration. \n\n\n###Article 20 : Fréquence des réunions\n\nLe conseil d’administration se réunit dès que les besoins s’en font sentir. Il est convoqué à la demande de deux administrateurs au moins. Il est présidé par un administrateur désigné en préambule à chaque réunion.\n\n\n###Article 21 : Délibération\n\nLe conseil ’administration délibère valablement dès que la moitié de ses membres est présente ou représentée. Les décisions du conseil d’administration sont prises à la majorité simple des voix présentes ou représentées. \n\nEn cas de partage des voix le point est reporté au prochain conseil d’administration.\n\n\n###Article 22 : Pouvoirs\n\nLe conseil d’administration a les pouvoirs les plus étendus pour l’administration et la gestion de l’association. Le conseil d’administration fonctionne sur le principe du collège. Toutes les attributions qui ne sont pas expressément réservées par la loi ou les statuts à l’assemblée générale seront exercées par le conseil d’administration. \n\nIl peut notamment, sans que cette énumération soit limitative, faire et passer tous les actes et contrats, ouvrir et gérer tout compte bancaire, transiger, compromettre, acquérir, échanger, vendre tout bien, meuble ou immeuble, hypothéquer, emprunter, conclure des baux, accepter tous leg, subside, donation et transfert, renoncer à tout droit, représenter l’association en justice, tant en défendant qu’en demandant. Il peut aussi nommer et révoquer le personnel de l’association. \n\n\n###Article 23 : Délégation à la gestion journalière\n\nLe conseil d’administration peut déléguer certains pouvoirs à plusieurs personnes, administrateurs ou non, agissant conjointement.\n\nLes pouvoirs de l’organe de gestion journalière sont limités aux actes de gestion quotidienne de l’association qui permet d’accomplir les actes d’administration :\n\n- qui ne dépassent pas les besoins de la vie quotidienne de l’ASBL,  \n- qui, en raison de leur peu d’importance et de la nécessité d’une prompte solution, ne justifient pas l’intervention du conseil d’administration. La durée du mandat des délégués à la gestion journalière, éventuellement renouvelable, est fixée par le conseil d’administration. Quand le délégué à la gestion journalière exerce également la fonction d’administrateur, la fin du mandat d’administrateur entraîne automatiquement la fin du mandat du délégué à la gestion journalière.  \n\nLe conseil d’administration peut, à tout moment et sans qu’il doive se justifier, mettre fin à la fonction exercée par la personne chargée de la gestion journalière. \n\n\n###Article 24 : Représentation\n\nL’association peut être valablement représentée dans tous les actes ou en justice par deux administrateurs au moins désignés par le conseil d’administration agissant conjointement qui en tant qu’organe, ne devront pas justifier vis-à-vis des tiers d’une décision préalable et d’une procuration du conseil d’administration.\n\n"
+        }
+      ],
+      [
+        37
+      ]
+    ],
+    [
+      [
+        [
+          1
+        ]
+      ],
+      "documents",
+      {},
+      [
+        "35273ab4-dad1-40ed-ab1d-89b50ee8b110",
+        "086e1d34-35c7-4044-b29d-3c0e1e28a133",
+        "1497cb69-da04-4f2a-bf20-567db9b8b95e",
+        "b6170e07-ca20-4617-803f-8eefa385545e",
+        "9ecbda11-ac39-4523-9d20-acf7a5202b4e",
+        "cf304d48-94d3-4cdf-b3bf-d3fbb4300440",
+        "96c12dc0-eb9a-458c-bf42-4ba965acee57",
+        "6df57ab5-fb37-430d-b8f7-96612e21af4a",
+        "59578c48-ff8e-4135-b517-59d0cddc2032",
+        "973e3939-9f35-41d7-8608-af84f8bfd64d",
+        "a373872f-ee9c-488a-bd81-1efb86563b90",
+        "03af66de-18af-4ada-b5ae-2c83e00e4dab",
+        "80920b01-2245-408c-9328-1186104f5322",
+        "c0a2f55f-8285-468d-88b4-ef463b4f9b08"
+      ],
+      [
+        {
+          "absPath": "/home/osp/apps/osp.tools.ethertoff.js/example_content/ethertoff-write-read-print.gif",
+          "path": "ethertoff-write-read-print.gif",
+          "mime": "image/gif",
+          "binary": true
+        },
+        {
+          "absPath": "/home/osp/apps/osp.tools.ethertoff.js/example_content/index.html",
+          "path": "index.html",
+          "mime": "text/html",
+          "binary": false,
+          "text": "<html><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><\/head><body><h1>Welcome to Ethertoff<\/h1>\n\n<p><img src=\"/raw/ethertoff-write-read-print.gif\"><\/p>\n\n<p>Ethertoff is a simple collaborative web platform, much resembling a wiki but featuring realtime editing (à la Etherpad). Its output is constructed with equal love for print and web.<\/p>\n\n<h2>Real-time editing<\/h2>\n\n<p>This page, index.html, has both a <a class=\"button\" href=\"../r/index.html\">read<\/a> and a <a class=\"button\" href=\"../w/index.html\">write<\/a> version. Click on the write button to start editing the source code. You can connect with multiple users at the same time. The changed text will update in real time the read version as well.<\/p>\n\n<p>If the name of a pad ends with <code>.html<\/code>, the page is considered to be an HTML document. When editing, you can use all the usual HTML tags. If the name ends with <code>.md<\/code>, the page is a Markdown document. You can write this page with the more sparse Markdown syntax.<\/p>\n\n<p>Ethertoff also lets you download the ‘raw’ document, see: <a href=\"../raw/index.html\">/raw/index.html<\/a>.<\/p>\n\n<p>New pads are created by typing a link to a non-existing page in the url-bar:<\/p>\n\n<pre><a href=\"http://localhost:3000/w/name_of_new_pad.html\">http://localhost:3000/w/name_of_new_pad.html<\/a><\/pre>\n\n<h2>Form is content<\/h2>\n\n<p>Unlike most wikis, Ethertoff lets you edit its own appearance, by editing the page <a href=\"../w/style.css\">style.css<\/a>.<\/p>\n\n<p>Ethertoff’s default template and stylesheet take care to adapt the output for print. A ‘print’ button is always nearby to remind one of this possible route.<\/p>\n\n<\/body><\/html>\n"
+        },
+        {
+          "path": "",
+          "text": "Foo Foo Foo",
+          "mime": "text/plain",
+          "binary": false
+        },
+        {
+          "path": "programme::schedule",
+          "text": "Foo Foo Foo",
+          "mime": "text/plain",
+          "binary": false
+        },
+        {
+          "path": "start.html",
+          "text": "Foo Foo Foo",
+          "mime": "text/html",
+          "binary": false
+        },
+        {
+          "path": "bla.html",
+          "text": "Foo Foo Foo",
+          "mime": "text/html",
+          "binary": false
+        },
+        {
+          "path": "about.html",
+          "text": "Foo Foo Foo",
+          "mime": "text/html",
+          "binary": false
+        },
+        {
+          "path": "7446df6f-f761-489d-addd-1ad97690dd0c",
+          "text": "Foo Foo Foo",
+          "mime": "text/plain",
+          "binary": false
+        },
+        {
+          "path": "72c60c97-c5d4-48c2-a659-6a4a4a1a6e62",
+          "text": "Foo Foo Foo",
+          "mime": "text/plain",
+          "binary": false
+        },
+        0,
+        {
+          "absPath": "/home/osp/apps/osp.tools.ethertoff.js/example_content/style.css",
+          "path": "style.css",
+          "mime": "text/css",
+          "binary": false,
+          "text": "@import url(http://fonts.googleapis.com/css?family=Domine:400,700);\n@import url(http://fonts.googleapis.com/css?family=Quattrocento+Sans:400italic,700,400,700italic);\n\n@font-face {\n    font-family: HerscheyFutura;\n    src: url(../../uploads/herscheyfutura-webfont.ttf);\n}\n\n\n@color: blue;\n@serif: Domine;\n@sans: Quattrocento Sans;\n@mono: Not Courier Sans;\n@font-size: 17px;\n@font-size-small: 12px;\n@line-height: 23px;\n\n\n/* BLOCKS -------------------------------------  */\n* {\n    -webkit-box-sizing: border-box;\n    -moz-box-sizing: border-box;\n    box-sizing: border-box;\n    text-rendering: optimizeLegibility;\n    font-feature-settings: \"liga\", \"dlig\", \"clig\", \"kern\";\n    -webkit-font-feature-settings: \"liga\", \"dlig\", \"clig\", \"kern\";\n    -moz-font-feature-settings: \"liga\", \"dlig\", \"clig\", \"kern\";\n    -o-font-feature-settings: \"liga\", \"dlig\", \"clig\", \"kern\";\n}\n\nbody {\n    background-size: 100%;\n    background-attachment: fixed; \n    background-repeat: no-repeat;\n    color: black;\n    font-family: @serif;\n    font-size: @font-size;\n    line-height: @line-height;\n    padding: @line-height / 2;\n}\n\n/* Style des niveaux de titre */\nh1, h2, h3, h4, h5, h6 {\n    font-size: @font-size; \n    font-weight: bold;\n    font-family: @serif;\n    margin: 0;\n    margin-top: @line-height;\n    padding-top: @line-height;\n    clear: both;\n}\nh1 {\n    font-size: @font-size;\n    line-height: @line-height;\n    font-family: HerscheyFutura;\n    font-weight: normal;\n}\n\nh2 {\n    font-size: @font-size;\n    font-family: HerscheyFutura;\n    font-weight: normal;\n}\nh3 {\n    margin: @line-height 0;\n    font-family: @sans;\n    font-weight: normal;\n}\nh4 {\n    text-decoration: underline;\n}\n\nimg {\n    max-width: 200px;\n    float: left;\n    margin: @line-height / 2;\n    display: block;\n}\n\nimg.inline {\n    display: inline; \n    vertical-align: top; \n    margin: 0;\n    height: 1em;\n}\nimg.large {\n    width: 90%;\n    max-width: none;\n    margin: auto;\n}\n\n.thumbnail {\n    max-width: 30%;\n}\n\n\nblockquote {\n    font-family: @sans;\n    font-size: @font-size;\n    margin: @line-height 2 * @line-height;\n}\np, ul, ol {\n    margin-bottom: @line-height;\n    clear: both;\n}\n\nhr {\n    border: 0;\n    height: @line-height;\n    margin: 0;\n}\nhr + hr {\n    display: block;\n    border-bottom: 1px solid black;\n}\n\ncode, pre {\n    font-family: @mono;\n    font-size: @font-size;\n    white-space: pre-wrap;\n}\npre {\n    padding: @line-height;\n    width: 75%;\n}\n\n/* Style des légendes d'images */\nfigcaption {\n    font-family:  @sans;\n    font-size: @font-size-small;\n    line-height: 1.3em;\n    text-align: center;\n    margin-bottom: @line-height;\n}\n/* Style des frames de vidéo ou autres objets hors image */\nfigure iframe {\n    max-width: 70%;\n    margin: @line-height auto;\n    display: block;\n}\naudio,\nvideo {\n    display: block;\n    clear: both;\n    margin: auto;\n    margin-bottom: @line-height * 2;\n}\n\n/* Style des notes de bas de pages */\n.footnote {\n    font-size: @font-size-small;\n    line-height: 1.3em;\n    margin-bottom: 2 * @line-height;\n}\n.footnote p {\n    margin-bottom: 0;\n}\n\n/* INLINES ------------------------------------- */\n/* Style des liens hypertextes */\na,\na:visited {\n    text-decoration: none;\n    color: @color;\n}\n/* Style du texte en roll-over sur les liens */\na:hover {\n    text-decoration: none;\n    color: black;\n}\n/* Style quand on arrive à une ancre */\n.target {\n    background-color: @color;\n}\n/* Style de l'italique */\nem {\n    font-style: italic;\n}\n/* Style du bold */\nstrong {\n    font-weight: bold;\n}\n/* Style des exposants */\nsup {\n    font-size: 0.65em;\n    line-height: 0;\n    vertical-align: 0.5em;\n}\nsup a {\n    font-family:  @sans;\n}\n/* Style du texte souligné */\nu {\n    text-decoration: none;\n    border-bottom: 2px solid yellow;\n}\n\n\ndt {\n    font-style: italic;\n    display: inline;\n    font-family: @sans;\n}\ndt:after {\n    content: \": \";\n}\ndd {\n    display: inline;\n    margin:0;\n}\ndd:after {\n    content:'\\0A';\n    white-space:pre;\n} \ndd + dd {\n    margin-left: @line-height * 2;\n}\n\n\n.metadata dt, \n.metadata dd {\n    float: left;\n}\n.metadata dt {\n    clear: both;\n    margin-right: 4px;\n}\n.metadata dd +dd {\n    margin-left: 0;\n}\n.metadata dd:after {\n    content: \", \";\n}\n.metadata dd:last-child:after {\n    content: \"\";\n}\n\n\n.comment:before {     \n    background-color: yellow !important;\n    border-radius: 1em;\n    display: inline;\n    height: 1em;\n    margin: 0 0.5em;\n    padding-left: 7px;\n    padding-right: 9px;\n    text-align: center;\n    width: 1em;\n    content: \"!\";\n    font-family:  @sans;\n} \n\n\n/* FORMS -------------------------- */\nform {\n    margin-bottom: none;\n}\nform label, form textarea {\n    font-family: inherit;\n    font-size: inherit;\n}\nform input, form textarea {\n  background: none;\n  border-style: solid;\n  border-color: black;\n  font-family: sans-serif;\n    font-size: inherit;\n}\n/* Style de l'élément activé */\nform input:focus, form textarea:focus {\n    background-color: white;\n}\nform input[type=text], form input[type=password] {\n  height: 25px;\n    position: relative;\n    top: -1px;\n    width: 200px;\n}\nform input[type=submit] {\n    cursor: pointer;\n    padding: 0;\n  height: 26px;\n  border-style: none;\n  border-color: none;\n  text-decoration: none;\n  color: @color;\n}\nform input[type=submit]:hover {\n    background-color: white;\n    text-decoration: none;\n    color: black;\n}\n\n/* GENERIC CLASSES -------------------------------- */\n/* Style des boutons */\n.button {\n  text-decoration: none;\n    margin: 0 @line-height / 2;\n    border: 1px solid @color;\n    padding: @line-height /4 @line-height /2;\n    font-family: @sans;\n}\n.button.active {\n\tcolor: white;\n\tbackground-color: @color;\n  font-weight: bold;\n  outline: 1px solid @color;\n}\n/* Style des boutons en roll over */\n.button:hover {\n    outline: 1px solid @color;\n    color: @color;\n}\n/* Classe pour transformer des éléments blocs en éléments en ligne */\n.inline {\n    display: inline;\n}\n\n\n/* PAGE STRUCTURE --------------------------------- */\n/* Style des containers */\n.wrap {\n    -webkit-box-sizing: border-box;\n    -moz-box-sizing: border-box;\n    box-sizing: border-box;\n    display: -ms-flexbox;\n    display: -moz-box;\n    display: -webkit-flex;\n    display: flex;\n}\n.wrap:first-child {\n    margin: @line-height 0;\n}\n.wrap:before, .wrap:after {\n    content: \" \";\n    /* 1 */\n     display: table;\n    /* 2 */ \n}\n.wrap:after {\n    clear: both;\n}\n/* Style des sous-parties de containers */\n.left-side, .middle, .right-side {\n    float: left;\n    position: relative;\n}\n.left-side,\n.right-side  {\n    -webkit-box-flex: 1;\n    -moz-box-flex: 1;\n    -webkit-flex: 1;\n    -ms-flex: 1; \n    flex: 1;\n    margin-top: 2 * @line-height;\n}\n.middle {\n    width: 50em;\n    padding: @line-height 2 * @line-height;\n}\n\n.write-mode .middle {\n    width: 70%;\n}\n\n/* Pour les inclusions de pads dans les compilations */\n#content .middle {\n    width: 100%;\n}\n\n/* NAV ------------------------------------------ */\n\n\n/* Navigation */\nnav {\n    font-family: @sans;\n    line-height: @line-height;\n    font-size: @font-size-small;\n    /*position: fixed;*/\n    top: 0;\n    background-color: white;\n    padding: @line-height / 4;\n    z-index: 1000;\n}\nnav#nav-left {\n    left: 0;\n    width: 100%;\n}\nnav#nav-right {\n    right: 0;\n    text-align: right;\n}\nnav div#staff-menu {\n    display: inline;\n    color: darkgray;\n}\n\nnav h1 {\n    display: inline;\n}\nnav span:before {\n    content: \" — \";\n}\n\nnav div#sort-by {\n    display: inline;\n    color: darkgray;\n}\n\n\n/* Texte précédent/suivant */\ndiv#previous a,\ndiv#next a {\n    position: fixed;\n    top: 6.5em; \n    font-family:  sans-serif;\n    font-size: @font-size-small;\n    line-height: 1.2em;\n    padding: @line-height;\n    z-index: 6666;\n}\ndiv#previous a span,\ndiv#next a span {\n    display: none;\n}\ndiv#previous a:hover span,\ndiv#next a:hover span {\n    display: block;\n}\ndiv#next {\n    text-align: right;\n    padding-right: 0;\n}\ndiv#next a {\n        right: 0;\n}\n\n/* MAIN CONTENT ---------------------------------- */\nheader {\n    margin-top: @line-height;\n    font-size:  2.5 * @font-size;\n    line-height: 1.2em;\n    text-align: center;\n}\nheader p, header h2 {\n    font-family: inherit;\n    margin-bottom: 0;\n    line-height: inherit;\n    text-align: center;\n    display: inline;\n}\nheader h2 {\n    font-size: inherit;\n    font-family: @sans;\n    text-transform: none;\n}\nheader p.authors:after {\n    content: \", \";\n}\n\n\n\n#content ul li:before {\n    content: \"– \";\n    margin-left: 2 * @line-height;\n}\n\nol {\n    list-style-type: decimal;\n    margin-left: 2 * @line-height;\n}\n.footnote ol li {\n    margin-bottom: 0em;\n}\n\n.note {\n    margin: @line-height;\n    margin-left: 50%;\n    text-indent: 0;\n    font-family: @sans;\n    \n    & + p {\n        text-indent: 0;\n    }\n}\n.noteA {\n    width: 75%;\n    float: right;\n    margin: @line-height 0;\n}\n.noteB {\n    width: 75%;\n}\n\ndl.meta {\n    font-family: @sans;\n    color: lightgray;\n    font-size: @font-size-small;\n   line-height: 1.25em;\n}\ndiv.metadata {\n   font-family: @sans;\n   font-size: @font-size-small;\n   line-height: 1.25em;\n   position: absolute;\n   top: 0px;\n   left: -15em;\n   width: 15em;\n}\n\ndiv#go-up {\n    clear: both;\n    margin-top: 2 * @line-height;\n    a {\n        border-bottom: none;\n    }\n    a:hover {\n        color: @color;\n    }\n}\n\n/* AUTHORSHIP ----------------------------- */ \n\n.authors {\n    display: inline;\n}\n/* Hides Etherpad background colours */ \n#content span {\n    background-color: inherit !important;\n}\n\n/* ------ PRINT/SCREEN ------ */\n@media screen {\n    .print-only {\n    display: none;\n    }\n}\n\n\n/* User Interface */\n\n.popup-wrapper {\n    position: fixed;\n    top: 0;\n    left: 0;\n    right: 0;\n    bottom: 0;\n    z-index: 999999999999;\n    background: rgba(0,0,0,0.6667);\n    text-align: center;\n}\n\n.popup-wrapper.hidden {\n    display: none;\n}\n\n.popup-wrapper:before {\n        position: relative;\n        height: 100%;\n        content: \"\";\n        display: inline-block;\n        vertical-align: middle;\n    }\n\n.popup {\n        display: inline-block;\n        vertical-align: middle;\n        background-color: white;\n        padding: 30px;\n}\n\n/* UI */\n\n.CodeMirror {\n    height: inherit !important;\n    /*outline: 1px solid blue;*/\n}\n\n.CodeMirror-sizer {\n    min-width: inherit !important;\n}\n\n\n/* P R I N T */\n@media print {\n\t@page {\n  \tmargin-top: 2cm;\n    margin-bottom: 3cm;\n    orphans: 2;\n    widows: 2;\n\n  }\n\n  .screen-only,\n  .button,\n  nav span,\n  .left,\n  .right,\n  div#go-up {\n      display: none;\n  }\n  video,\n  audio {\n      display: none;\n  }\n  \n  a {\n  \tcolor: black;\n  }\n  \n  h1, h2, h3, h4, h5, h6 {\n  \tpage-break-after: avoid;\n  }\n}\n"
+        },
+        {
+          "absPath": "/home/osp/apps/osp.tools.ethertoff.js/example_content/roi.md",
+          "path": "roi.md",
+          "mime": "text/x-markdown",
+          "binary": false,
+          "text": "# Recipe of interior order\n\nL’association est composée de membres effectifs et de membres adhérents. \n\nLe nombre de membres effectifs ne peut être inférieur à trois. Seuls les membres effectifs jouissent de la plénitude des droits accordés aux membres par la loi et les présents statuts.               \n\n*The association is composed of effective members (and adherent members). The number of effective membes cannot be less than two. Only effective members can benefit of the full rights granted to the members by the law and the present statutes.*\n\n### Membres effectifs\n\nCes membres sont ceux qui ont le plus de droits et d’obligations fixés par la loi.\n\nIls ont le droit de vote à l’assemblée générale. C’est eux qui désignerons les administrateurs et le conseil d’administration. \n\n*These are the members who have the more rights and duties set by the law. They have voting rights at the general assembly. They will designate the administrators and the board of directors.*\n\n- Gijs De Heij \n- Pierre Huyghebaert \n- Alexandre Leray \n- Ludivine Loiseau \n- Sarah Magnan \n- Colm O’Neill \n- Eric Schrijver \n- Stéphanie Vilayphiou \n\n\nL’assemblée générale décide des nouveaux membres effectifs selon les critères suivants : \n\n- le nouveau membre montre une capacité de travailler de manière collaborative  \n- il/elle ajoute une expertise à l’asbl  \n- il/elle montre une capacité d’élargir et d’approfondir sa pratique en faisant de la recherche (artistique ou académique). \n\nLa décision d’admission ou de refus est sans appel et ne doit pas être motivée par l’assemblée générale. Elle est portée à la connaissance du candidat par courriel. \n\n**\n\n\n### Membres adhérents\n\nLes membres adhérents partagent les outils et les valeurs OSP. Ils participent ponctuellement aux projets du groupe, à l’occasion d’ateliers, de print parties, de recherches ou dans le cadre de publications et commandes. Ce sont des invités satellites, des branches sauvages.\n\nIls peuvent utiliser l’espace de travail et les outils OSP (plotters, font scanner, tabliers, etc). Ils sont invités à copier, modifier et distribuer tout ou parties de notre pratique et à nous le rapporter. Ils peuvent prendre part aux projets avec les membres effectifs et dans ce cas bénéficier de financements demandés pour eux au nom d’OSP.\n\n*Adherent  members share OSP values and tools. They participate punctually with the group, on specific workshops, research, publications or commissions.\nThey  are featured guests and wild branches. They can use, after being  informed of the how-to, the working space and tools of OSP (plotters,  font scanner, pans, aprons).They copy, modify and distribute pieces of  our practice and tools and report it back to us. They can take part in a  project along effective members and in that case subsidies can be asked for them in the name of OSP.*\n\nPour être membre adherent, il faut remplir les conditions suivantes : \n\n1. avoir écrit une lettre de motivation \n2. être prêt à publier ses fichiers sources sous licence libre  \n3. avoir une pratique ou faire preuve d’un réel engagement de pratique de logiciels libres ou open source, en tout ou partie de son processus de travail \n4. montrer une capacité à travailler de manière collaborative  \n5. avoir lu les textes suivants :     \n- les statuts de l’asbl  \n- l’accord de collaboration OSP  \n- <http://f-u-t-u-r-e.org/r/02_OSP_Relearn_FR.md>\n- <http://artlibre.org/licence/lal>\n- [http://creativecommons.org/licenses/b](http://creativecommons.org/licenses/by-sa/3.0/)[y](http://creativecommons.org/licenses/by-sa/3.0/)[sa/3.0/](http://creativecommons.org/licenses/by-sa/3.0/) \n6. avoir une bonne pratique de la langue anglaise \n7. être accepté par vote à l’assemblée générale \n\n*To be an adherent member, the following conditions must be fulfilled:*\n\n1. use free and open source software in whole or in part of the process\n2. publish source files\n3. use free licence\n4. speak English\n5. have a research practice\n6. to not work alone\n7. have read:\n   - OSP asbl statutes\n   - OSP's collaboration agreement\n   - <http://artlibre.org/licence/lal/en/>\n   - <http://creativecommons.org/licenses/by-sa/3.0/>\n   - <http://f-u-t-u-r-e.org/r/02_OSP_Relearn_FR.md> (definitively need to translate this)\n   - have written a motivation letter to become an effective member of OSP asbl\n   - is voted upon the general assembly\n\n### Autres catégories de membres\n\nLes autres types de membres peuvent être : \n\n#### Membres « sources » \n\n- xxx\n- xxx\n- xxx \n\nLes membres sources font partie intrinsèque de l’histoire du projet OSP. Nous pouvons copier, modifier et redistribuer leurs pensées librement.\n\nCe ne sont pas de vieux singes, mais plutôt de vrais champignons de forêt auprès desquels une visite régulière nous garantit une certaine involution.\n\nIls sont invités à l’assemblée générale et ont droit de vote, mais leur présence n’est pas obligatoire. Ils peuvent prendre part aux projets avec les membres effectifs et dans ce cas des financements  peuvent être demandés pour eux au nom d’OSP.\n\n*Source members are intrinsic parts of the OSP project story. We copy, modify and redistribute their thoughts freely. By keeping them close to us, we make sure OSP stays true to the spirit in which it was founded.\nInvited to the general assembly, they have the right to vote, but their presence is not mandatory. They can take part in a project along effective members and in that case subsidies can be asked for them in the name of OSP.*\n\n#### Membres observateurs  \n\n- xxx\n- xxx\n- xxx \n\nLes membres observateurs sont issus de différents domaines et pratiques, enrichissant les perspectives du projet OSP. Nous nous fions à eux pour apporter des commentaires et réactions, pour étendre notre vision et connecter notre travail à d’autres pratiques et audiences. Les membres observateurs sont invités à l’assemblée générale pour échanger au sujet de l’asbl mais ils n’ont pas de droit de vote. Il n’est pas exclu que ces membres participent aux projets plus concrètement, mais l’idée première est qu’ils gardent une vue cartographique d’OSP.\n\n*Observatory members come from different fields of practice and give insight in the project of OSP asbl. We rely on observatory members for feedback, to expand our vision, to open us up towards new opportunities, to connect our work to other practices and to help us transmit our practice to other audiences. The observatory members  are invited to come to the general assembly to discuss about the asbl  but do not have the right to vote. It is not completely excluded for  them to take part more concretely in our practice, but the idea is that they keep a cartographic view on osp.*\n\n"
+        },
+        {
+          "path": "to-do.md",
+          "text": "*This document supersedes https://lite4.framapad.org/p/oQbYsghWVh *\n\n# TODO\n\n## Corrections of the statutes\n\n- we need to precise in the status what is open source *(Eric can do this)*\n- expand a bit Article 3 to be covered about the commercial non-commercial aspects\n\nAre there other parts of the statutes that still need updating?\n\n## Creation of the Interior order\n\nMove as much as possible out of the statutes into the [Recipe for Interior Order](roi.md)\n\nThis has been moved:\n\n- list and names of effective members\n- list of rules to be an effective members\n- specifications of members categories (observatories, satellitesm etc)\n\nWhat more does there need to be in there?\n\n## Specify member roles\n\nThis needs to be fleshed out a bit still. Eric moved the very specific requirements (as noted by board members) for effective members to the adherent members.\n\n## The address of the ASBL\n\nWe asked Pieter if Princesse can be the address for the ASBL. He seems ok. But we also need a legal renting contract. Ludi has proposed this to Pieter in a mail. In progress.\n\n## Find a treasurer\n\nEven if a treasurer is no legal requirement anymore, the other board members find this an important role.\n\nThe treasurer will not have to have extensive accounting experience, but should be willing to learn. Some of the actual execution of the accounting can be done by the other board members, but it is mainly important that one person has the overview.\n\nEric can ask his law friends but its good to think of other people as well.\n\n## OSP decides on board composition\n\n4-5 people, including a treasurer (and other roles), one Dutch speaking.\n\n## Translate the statutes to Dutch\n\nEric + Gijs\n\n## Checking the statutes\n\nDoes a juridical person need to re-read them? Art Consult? Pierre H. recommends to start with his friend Notaire Pierre Henry.\n\n## Make sure we get VAT\n\nAs part of the previous—how do we make sure we get VAT?\n\n## Deposition of the statutes\n\nCan be online: <https://www.egreffe.be> + [More info]( http://justice.belgium.be/fr/themes_et_dossiers/services_du_spf/telecharger_des_documents/formulaires_pour_le_depot_de_documents_au_greffe_du_tribunal_de_commerce/)\n\nHowever, if we do it in real-life, Pieter remarks that they can re-read the statutes for us.\n\n## Post deposition formalities\n\nIn French, from aforementioned website:\n\n> Dépôt des statuts au greffe du tribunal de commerce Une fois que les statuts de l’asbl ont été rédigés et signés par les membres fondateurs, ceux-ci doivent les déposer au greffe du tribunal de commerce du lieu où le siège social de l’asbl est installé. D’autres pièces doivent également y être déposées : – – les actes relatifs à la nomination des administrateurs – – le cas échéant, les actes relatifs à la nomination des personnes déléguées à la gestion, des personnes habilitées à représenter l’asbl et des commissaires.\n\n> Depuis février 2012, le dépôt de l’acte constitutif peut se faire de manière électronique au moyen d’un lecteur de carte d’identité électronique sur www.egreffe.be. Publication des statuts et des administrateurs Certains des documents qui ont été déposés doivent également être publiés au Moniteur belge.\n\n> La demande de publication doit être faite en recourant au formulaire ad hoc disponible au greffe du tribunal de commerce ou sur le site internet du Moniteur belge. Vous devez payer les frais de publication préalable- ment au Moniteur belge : – – par chèque – – ou par mandat postal – – ou par virement ou versement sur le compte 679-2005502-27 du Moniteur belge (CODE BIC/SWIFT: PCHQBEBB – CODE IBAN BE48 6792 0055 0227) – – ou en ligne si le dépôt est fait de manière électronique\n\n> Les documents sont destinés au greffe du tribunal de commerce. Si vous avez des questions concernant le dépôt électronique, vous pouvez vous adresser au helpdesk du Moniteur belge (e-helpdesk@just.fgov.be – 0800/98.809). Vous trouverez plus d’informations concernant les formulaires et la manière de les compléter sur le site du Moniteur belge.\n",
+          "mime": "text/x-markdown",
+          "binary": false
+        },
+        {
+          "path": "meeting-minutes.md",
+          "text": "# Meeting Minutes\n\n## Meeting at Constant 09-10-14\nPresent: Nik, Peter, Catherine, Alex, PierreM, Ludi, Femke\n\nMember categories and statutes vs. 'reglement interieur'\n\nNik: Why did you chose to have all these member types (5 categories!)\nLudi: We have already enough active ones ... so we needed extra categories for others. We needed another category of 'using members', fee\n\nCatherine: Who do you imagine asking these questions (for becoming efficient members) to?\nMembers effectif: List becomes now a description of how to become an effectif member, is it therefore a right (I have done all this, now I am an effective member)?\nNik: Do you need to make this structural, ie does this belong in statutes?\n'Non-voting members' do not have to be mentioned in Statutes\n'Non-voting members' seen from the perspective of asbl are really exceptional; most important for asbl structure to define who can be a voting member.\n\nNik: Will there be a way to proxy/delegate your vote?\nPeter: Can always vote by e-mail ... no special rule necessary (check if you need to specify this in statutes). Quorum only needed at times you want to change statutes.\n\nPeter: Putting things in Statutes means they become hard to change afterwards (every change means someone needs to redeposit the statutes)\n\nConclusion: Make statutes as minimal as possible.\nPut in the statutes: there are some rules, procedures in 'reglement interieur'\nReference to 'reglement interieur' -> needs to be checked off by Board\nclarify the differences (if required) between \"effective and non-effective members\"\n\nEffective members and the board\n\nQ: Board members need to be members, but can they be also effective members?\nNik: General managers usually are often on the board, they are paid (meaning: fact that members are paid by asbl is initself not a problem)\nLudi, Alex: Board needs to have some distance, not in daily practice.\nNik:  What happens if effective member wants to become less active, and than become part of the board? Think through how to become and unbecome effective member.\nBetter to not put effective members in the statuten, but just board and founding members (CHECK).\n\nConclusion: AG is a group of members made up of effective and non-effective members. The Board is chosen from non-effective members by all members.\n\nComposition of the board\n\nObligatory roles:\nPresident\nTreasurer\n\nAdditional roles:\nSecretary\nMember (director?)\n\nPeople proposed to be on the board:\nBram, Nik, Catherine, PierreM, Femke +  treasurer\nOther candidates? How to chose?\n\nFS: Who will be Treasurer? Important role.\nCatherine:  Can't be treasurer for OSP as well (already for another association). Femke does not want to do it. Nik neither (is treasurer for Foam). Both want to help. Bram we don't know.\n\nAt the moment Steph and Ludi are doing daily administration, and will keep doing that.\nIf OSP would have an accountant, it is not so much work?\nNik: working with Art-consult, works well; relatively inexpensive ref. SMART - they have experience with legal structures related to cooperation etc. Stephane would like to do it?\n\nNik: if someone else takes the role officially, I can do it informally. Can mentor. Catherine: yes, me too.\nWe can have a 'learning treasurer'. Wanting to take on getting a financial oversight.\nWe do not immediately know anyone, but will ask again.\n\nPeter: Check again the non-profit status? How to make sure this it is not an illegal asbl? Risk?\nProve that it is research? Collaboration agreements are important.\nIf there are problematic issues, still possible to go through smart.\n\nThe intendant\n\nFemke: Special request to specify an intendant = effective member/OSP that reports from OSP to board and vice versa. \nSpecify role (not person, name) in Statutes:\n- report from and to 'effective practice'\n- take part in board meetings (as a correspondent)\n\nThe person taking on this role can rotate.\n\nThe larger picture\n\nNik: will propose, write something about a larger structure based on Ethereum\nHow to plug organisations into each other, not to do cooperation instead of asbl, but to keep asbl and go larger.\n\nRoadmap for bootstrapping OSP\n\n- future effective members (= OSP) decide on a board proposal: 4-5 people, including a treasurer (and other roles), one Dutch speaking. Proposed board members at this point:\n-- Bram, Nik, Catherine, Pierre, Femke, treasurer, ... \n- finish statutes (keep as simple as possible!)\n- translate statutes in NL\n- finish 'manifesto' (in English)\n- everyone mentioned on the statutes should agree (signatures secretary + president)\n- make a membership record, and print it out and put in filing cabinet\n- announce the asbl to exist at the Le Moniteur belge (FR) & Het Belgisch Staatsblad (NL)\n- In first year after: Board calls a first AG, On the agenda: confirm/legitimize proposed board\n\nPractical: \nNik not avail until 18/01\nFS in Bxl until 07/01 and between 19 and 25 jan\n",
+          "mime": "text/x-markdown",
+          "binary": false
+        }
+      ],
+      [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0,
+        15,
+        187,
+        903,
+        48
+      ]
+    ]
+  ],
+  "contexts": {
+    "root": {
+      "fetchedDocs": {},
+      "subscribedDocs": {}
+    }
+  },
+  "refs": [
+    [
+      "_page.document",
+      "_page.documents.0"
+    ]
+  ],
+  "refLists": [
+    [
+      "_page.documents",
+      "documents",
+      "$queries.[\"documents\",{\"path\":\"asbl-statutes|md\"},null].ids",
+      null
+    ],
+    [
+      "_page.allDocuments",
+      "documents",
+      "$queries.[\"documents\",{},null].ids",
+      null
+    ]
+  ],
+  "fns": [],
+  "filters": [],
+  "nodeEnv": "development",
+  "collections": {
+    "$connection": {
+      "state": "connected"
+    },
+    "_session": {
+      "userId": "12aad09b-9e34-40f1-a1b9-89b7d554acda"
+    },
+    "$render": {
+      "params": {
+        "0": "asbl-statutes.md",
+        "url": "/r/asbl-statutes.md",
+        "body": {},
+        "query": {}
+      },
+      "url": "/r/asbl-statutes.md",
+      "query": {},
+      "ns": "read",
+      "prefix": "read:"
+    },
+    "_page": {
+      "slug": "asbl-statutes.md",
+      "readMode": true,
+      "document": {
+        "absPath": "/home/osp/apps/osp.tools.ethertoff.js/example_content/asbl-statutes.md",
+        "path": "asbl-statutes.md",
+        "mime": "text/x-markdown",
+        "binary": false,
+        "text": "Here is a list with minimal ASBL elements:\n\n- la dénomination complète et l'adresse du siège de l'ASBL, l'arrondissement où elle est établie ;\n- l'objet social poursuivi ;\n- une distinction éventuelle entre membres actifs (minimum 3) et non actifs ;\n- le nom, l'adresse et la nationalité des fondateurs ;\n- le montant maximal de la cotisation ;\n- les conditions de nomination des administrateurs ;\n- la procédure de modification des statuts ;\n- les responsables pour la gestion des comptes et des budgets ;\n- la destination du capital en cas de dissolution ;\n- les pouvoirs de l'Assemblée Générale (AG).\n\n\n#OSP ASBL STATUTS\n\nLes soussignés : \n\n- De Heij Gijs, NL, rue des Tanneurs 170 - 1000 Bruxelles  \n- Huyghebaert Pierre, BE, rue Cervantes 6 - 1190 Forest,  \n- Leray,FR, Alexandre rue de l’Hôtel des Monnaies 27 - 1060 Saint-Gilles \n- Loiseau,Ludivine, FR, rue Defacqz 13 - 1050 Ixelles \n- Magnan,Sarah, FR, rue Franz Merjay 93 - 1050 Ixelles \n- O’Neill Colm, IE,avenue Félix 6 - 1330 Rixensart, 1990, Ixelles \n- Schrijver Eric,NL, Alfred Cluysenaarstraat 12 – 1060 Saint-Gilles \n- Vilayphiou Stéphanie, FR, rue de l’Hôtel des Monnaies 27 - 1060 Saint-Gilles \n\n*The undersigned: For each founding physical member: last name, first name, address, place and date of birth*\n\nont convenu de constituer une association sans but lucratif conformément\nà la loi du 27 juin 1921, adaptée et modifiée par la loi du 2 mai 2002, dont ils ont arrêté les statuts comme suit : \n\n*have agreed on constituting a non-profit association in accordance with the law of the June 27, 1921, adapted and modified by the law of  May 2, 2002, which statutes are as such:*\n\n\n##Titre I - Dénomination, siège social, but, durée\n\n###Article 1 : Dénomination\n\nL’association est dénommée «Open Source Publishing», en abrégé «OSP». \n\nCette dénomination doit figurer dans tous les actes, factures, annonces, publications, lettres, notes de commande et autres documents émanant de l’association, et être immédiatement précédée ou suivie des mots «association sans but lucratif» ou de l’abréviation\n«ASBL», avec l’indication précise de l’adresse du siège de l’association. \n\n*The association is named “Open Source Publishing”, abbreviated into “OSP”. This name has to figure in all acts, bills, notices, publications, letters, order forms and all other documents coming from the association, and has to be immediately preceded or followed by the terms “non-profit association” or the abbreviation “asbl”, with the precise indication of the address of the registered office of the association.*\n\n###Article 2 : Siège social\n\nSon siège social est établi Avenue Princesse Élisabeth, 46 dans l’arrondissement judiciaire de 1030 Schaerbeek. \n\nToute modification du siège social est de la compétence exclusive de l’assemblée générale qui votera sur ce point, conformément à la loi du 27 juin 1921, adaptée et modifiée par la loi du 2 mai 2002. \n\n*Its registered office is established at Avenue Princesse Elisabeth 46 in the judicial district of 1030 Schaerbeek\nAny modifications of the judicial district is of the exclusive competence of the general assembly which will vote on this subject, in accordance with the law of June 27, 1921, adapted and modified by the law of May 2, 2002.*\n\n###Article 3 : But, objet social poursuivi, champ d’action\n\nL’association OSP a pour objectif central de diffuser la culture libre et open source à Bruxelles et internationalement. Elle vise à stimuler une écosystème de pratiques qui rompent avec l’idée de création _ex nihilo_ et solitaire afin de favoriser l’échange et la réappropriation des œuvres. Elle vise également à investiguer sur le rôle des outils en particulier logiciels dans le processus de création, mène des projets graphiques commissionnés ou auto-initiés qui visent à tester les idées et outils développéesdans des conditions professionnelles et à diffuser ces modèles alternatif d’organisation du travail.\n\n*The association OSP has as its main goal to diffuse free and open source culture in Brussels and internationally. [E: From last meeting—what is free and open source culture?] It aims at stimulates an ecosystem of practices breaking up with the idea of ex nihilo and solitary creation in order to favor sharing and reappropriation of works. It also wants to research the role of tools (more particularly software) on the creative process and conduct graphical projects (commissioned or self-initiated) that aim to test OSP’s the ideas and tools developed by OSP in professional conditions. Finally it wants to diffuse its alternative models of organisation and work.*\n\nElle poursuit la réalisation de son but par tous les moyens. \n\nSes activités se concentrent notamment sur trois axes : pédagogie, recherche et création graphique.\n\nL’association se produit publiquement par l’animation d’événements publics (Print Parties), d’ateliers, de workshops, de performances, d’expositions et de conférences. L’édition et la publication peuvent aussi être des moyens de servir son objectif. \n\nL’association réalise ce but en étroite collaboration avec ses membres. \n\nElle peut faire tout acte se rattachant directement ou indirectement à son but ou pouvant en amener le développement et en faciliter la réalisation. \n\n*It pursues the realization of its goal by all means but in particular its activities focus on three axes: pedagogy, research and graphical creation. The association is produced by organizing public events (Print Parties), workshops, performances, exhibitions and lectures. Editing and publishing can also be means to serve its goal.*\n\n*The association produces its goal by all means, in close collaboration with its members. It can make any act linked, directly or undirectly, in whole or in part, to its goal or capable to lead to its development or facilitate its realization.*\n\n###Article 4 : Durée de l’association\n\nL’association est constituée pour une durée indéterminée. Elle peut être dissoute en tout temps.\n\n*The association is constituted for an undetermined period. It can be dissolved at any time.*\n\n##Titre II - Membres\n\n\n###Article 5 : Composition\n\nConseil d’administration :\n\n- xxx  \n- xxx \n- xxx\n\n\n###Article 8 : Démission – suspension – exclusion de membres et membres réputés démissionnaires\n\nTout membre effectif ou adhérent est libre de se retirer de l’association en adressant par courriel sa démission au conseil d’administration.\n\nEst réputé démissionnaire : \n\n- le membre effectif qui n’assiste pas ou qui ne se fait pas représenter à 3 assemblées générales consécutives.  \n\nL’exclusion d’un membre effectif ne peut être prononcée que par l’assemblée\ngénérale à la majorité des 2/3 des voix présentes ou représentées. Le conseil d’administration peut suspendre, jusqu’à décision de l’assemblée générale, les membres qui se seraient rendus coupables d’infraction grave aux statuts ou aux lois.\n\nL’exclusion d’un membre effectif requiert les conditions suivantes : \n\n1. La mention dans l’ordre du jour de l’assemblée générale de la proposition d’exclusion avec la mention, au moins sommaire, de la raison de cette proposition \n2. La convocation régulière d’une assemblée générale où tous les membres effectifs doivent être convoqués \n3. La décision de l’assemblée générale doit être prise à la majorité des 2/3 des voix des membres effectifs présents ou représentés mais aucun quorum de présence n’est exigé \n4. Le respect des droits de la défense, c’est-à-dire l’audition du membre dont l’exclusion est demandée, si celui-ci le souhaite \n5. La mention dans le registre de l’exclusion du membre effectif.  \n\nS’agissant d’une décision concernant une personne, celle-ci devra impérativement être prise par vote secret.\n\nLa qualité de membre se perd automatiquement par le décès ou, s’il s’agit d’une personne morale, par la dissolution, la fusion, la scission, la nullité ou la faillite. \n\nLe membre démissionnaire, suspendu ou exclu, ainsi que les héritiers ou ayants droit du membre décédé, n’ont aucun droit sur le fonds social de l’association. Ils ne peuvent réclamer ou requérir ni relevé, ni reddition de compte, ni apposition de scellés, ni inventaires, ni le remboursement des cotisations versées. \n\n\n###Article 9 : Registre des membres effectifs\n\nL’association doit tenir un registre des membres effectifs, sous la responsabilité du conseil d’administration. \n\nToute décision d’admission, de démission ou d’exclusion de membres effectifs est inscrite au registre à la diligence du conseil d’administration dans les huit jours de la connaissance que le conseil a eu des modifications intervenues. \n\nTous les membres peuvent consulter, au siège social de l’association, le registre des membres, ainsi que tous les procès-verbaux et décisions de l’assemblée générale, du conseil d’administration, de même que tous les documents comptables de l’association, sur simple demande écrite et motivée adressée au conseil d’administration. Les membres sont tenus de préciser les documents auxquels ils souhaitent avoir accès. Le conseil d’administration convient d’une date de consultation des documents avec les membres. Cette date sera fixée dans un délai d’un mois à partir de la réception de la demande. \n\n\n\n##Titre III - Cotisations\n\n\n###Article 10 : Cotisations\n\nLes membres ne sont astreints à aucun droit d’entrée, ni à aucune cotisation. \n\n\n\n##Titre IV - Assemblée générale\n\n\n###Article 11 : Composition\n\nL’assemblée générale est composée de tous les membres effectifs et présidée par un administrateur désigné en préambule à chaque réunion. Les membres adhérents peuvent y être invités, mais ils n’ont pas le droit de vote. \n\n\n###Article 12 : Pouvoirs\n\nL’assemblée générale est le pouvoir souverain de l’association. Elle est notamment compétente pour : \n\n- la modification des statuts ;  \n- l’exclusion de membres ;  \n- la nomination et la révocation des administrateurs, des vérificateurs aux comptes et du ou des liquidateurs ;  \n- la fixation de la rémunération des vérificateurs aux comptes dans les cas où une rémunération est attribuée ;  \n- l’approbation des comptes et des budgets ;  \n- la décharge à octroyer annuellement aux administrateurs, aux vérificateurs aux comptes et, en cas de dissolution volontaire, aux liquidateurs ;  \n- la dissolution volontaire de l’association ;  \n- la transformation éventuelle en société à finalité sociale ;  \n- la décision de la destination de l’actif en cas de dissolution de l’association;  \n- tous les cas exigés dans les statuts.  \n- l’admission de nouveaux membres (selon ce qui a été décidé à l’article 6);  \n- la fixation du montant de la cotisation annuelle incombant aux membres (selon ce qui a été décidé à l’article 10); \n- l’approbation du règlement d’ordre intérieur et ses modifications;  \n- décider d’intenter une action en responsabilité contre tout membre de l’association, tout  administrateur, tout vérificateur aux comptes (ou commissaire aux comptes), toute personne habilitée à représenter l’association ou tout mandataire désigné par l’assemblée générale ;  \n- considérer un membre comme présumé démissionnaire par défaut de paiement des cotisations qui lui incombent (selon ce qui a été décidé à l’article 8).  \n\n\n###Article 13 : Convocation – Assemblée générale ordinaire\n\nTous les membres effectifs sont convoqués à l’assemblée générale ordinaire, au moins une fois par an dans le courant du mois de mai.\n\nL’assemblée générale est convoquée par l’administrateur désigné par le conseil d’administration, par courriel au moins quinze jours avant la date de celle-ci. La convocation doit préciser la date, l’heure, le lieu et l’ordre du jour. \n\n\n###Article 14 : Délibération\n\nL’assemblée générale délibère valablement dès que la moitié de ses membres est présente ou représentée,  sauf dans le cas où la loi du 27 juin 1921, adaptée et modifiée par la loi du 2 mai 2002 exige un quorum de présences et un quorum de votes (modification statutaire, exclusion d’un membre, dissolution de l’ASBL ou transformation en société à finalité sociale). \n\nL’assemblée ne peut délibérer valablement que sur les points inscrits à l’ordre du jour. \n\nL’assemblée générale doit être convoquée par le conseil d’administration\nlorsque un cinquième des membres en fait la demande écrite. De même, toute proposition signée par un vingtième des membres doit être portée à l’ordre du jour de l’assemblée générale suivante.\n\n\n###Article 15 : Représentation\n\nTous les membres effectifs ont un droit de vote égal à l’assemblée générale. \n\nTout membre effectif peut se faire représenter par un autre membre effectif à qui il donne procuration écrite. Tout membre ne peut détenir qu’une procuration. \n\nLes décisions sont prises à la majorité simple des voix présentes ou représentées, sauf dans le cas où il en est décidé autrement par la loi ou les présents statuts. \n\nEn cas de partage des voix, le point est reporté à la prochaine assemblée générale. \n\n\n###Article 16 : Modifications statutaires et dissolutions\n\nL’assemblée générale ne peut valablement délibérer sur la dissolution de l’association ou la modification des statuts que conformément à la loi du 27 juin 1921, adaptée et modifiée par la loi du 2 mai 2002. \n\nToute modification aux statuts ou décision relative à la dissolution doit être déposée, dans le mois de sa date, au greffe du tribunal de commerce pour publication aux Annexes du Moniteur belge. Il en est de même pour toute nomination ou cessation de fonction d’un administrateur, d’une personne habilitée à représenter l’association, d’une personne déléguée à la gestion journalière ou d’un vérificateur aux comptes. \n\n\n###Article 17 : Publicité des décisions prises par l’assemblée générale\n\nLes convocations et procès-verbaux, dans lesquels sont consignées les décisions de l’assemblée générale, ainsi que tous les documents comptables, sont signés par un administrateur. Ils sont conservés dans un registre au siège de l’association et peuvent y être consultés par tous les membres et par des tiers s’ils en justifient la raison et que celle-ci est acceptée par le conseil d’administration. \n\n\n\n##Titre V - Conseil d’administration\n\n\n###Article 18 : Nomination et nombre minimum d’administrateurs – Durée du mandat\n\nL’association est administrée par un conseil d’administration composé de 3 membres au moins (dont un président, un secrétaire général et un trésorier) et de 15? (à préciser) au plus, nommés et révocables par l’assemblée générale. 12(?) administrateurs maximum sont choisis parmi les membres effectifs et 3 administrateurs maximum peuvent être choisis parmi des personnes non-membres effectifs à l’association. Les candidatures comme administrateur devront parvenir par courriel, signées par six membres effectifs, candidat compris, soit au Président, soit au Secrétaire général en fonction, et ceci trente jours au moins avant l’assemblée générale.\n\nLe nombre d’administrateurs sera toujours inférieur au nombre de membres effectifs de l’assemblée générale. \n\nLa durée du mandat est illimité.\n\nLeur mandat n’expire que par décès, démission ou révocation.\n\nLes administrateurs sortants sont rééligibles.\n\nEn cas de vacance d’un mandat, un administrateur peut être nommé à titre provisoire par l’assemblée générale. Il achève dans ce cas le mandat de l’administrateur qu’il remplace. \n\n\n###Article 19 : Démission\n\nTout administrateur qui veut démissionner doit signifier sa décision par courriel au conseil d’administration. \n\n\n###Article 20 : Fréquence des réunions\n\nLe conseil d’administration se réunit dès que les besoins s’en font sentir. Il est convoqué à la demande de deux administrateurs au moins. Il est présidé par un administrateur désigné en préambule à chaque réunion.\n\n\n###Article 21 : Délibération\n\nLe conseil ’administration délibère valablement dès que la moitié de ses membres est présente ou représentée. Les décisions du conseil d’administration sont prises à la majorité simple des voix présentes ou représentées. \n\nEn cas de partage des voix le point est reporté au prochain conseil d’administration.\n\n\n###Article 22 : Pouvoirs\n\nLe conseil d’administration a les pouvoirs les plus étendus pour l’administration et la gestion de l’association. Le conseil d’administration fonctionne sur le principe du collège. Toutes les attributions qui ne sont pas expressément réservées par la loi ou les statuts à l’assemblée générale seront exercées par le conseil d’administration. \n\nIl peut notamment, sans que cette énumération soit limitative, faire et passer tous les actes et contrats, ouvrir et gérer tout compte bancaire, transiger, compromettre, acquérir, échanger, vendre tout bien, meuble ou immeuble, hypothéquer, emprunter, conclure des baux, accepter tous leg, subside, donation et transfert, renoncer à tout droit, représenter l’association en justice, tant en défendant qu’en demandant. Il peut aussi nommer et révoquer le personnel de l’association. \n\n\n###Article 23 : Délégation à la gestion journalière\n\nLe conseil d’administration peut déléguer certains pouvoirs à plusieurs personnes, administrateurs ou non, agissant conjointement.\n\nLes pouvoirs de l’organe de gestion journalière sont limités aux actes de gestion quotidienne de l’association qui permet d’accomplir les actes d’administration :\n\n- qui ne dépassent pas les besoins de la vie quotidienne de l’ASBL,  \n- qui, en raison de leur peu d’importance et de la nécessité d’une prompte solution, ne justifient pas l’intervention du conseil d’administration. La durée du mandat des délégués à la gestion journalière, éventuellement renouvelable, est fixée par le conseil d’administration. Quand le délégué à la gestion journalière exerce également la fonction d’administrateur, la fin du mandat d’administrateur entraîne automatiquement la fin du mandat du délégué à la gestion journalière.  \n\nLe conseil d’administration peut, à tout moment et sans qu’il doive se justifier, mettre fin à la fonction exercée par la personne chargée de la gestion journalière. \n\n\n###Article 24 : Représentation\n\nL’association peut être valablement représentée dans tous les actes ou en justice par deux administrateurs au moins désignés par le conseil d’administration agissant conjointement qui en tant qu’organe, ne devront pas justifier vis-à-vis des tiers d’une décision préalable et d’une procuration du conseil d’administration.\n\n"
+      }
+    }
+  }
+}</script>
