@@ -1,6 +1,6 @@
 #!/bin/bash
-curl -O "http://ethertoff.osp.kitchen/r/asbl-statutes.md"
-curl -O "http://ethertoff.osp.kitchen/r/roi.md"
-curl -O "http://ethertoff.osp.kitchen/r/to-do.md"
-curl -O "http://ethertoff.osp.kitchen/r/style.css"
+curl -O "http://ethertoff.osp.kitchen/raw/asbl-statutes.md"
+curl -O "http://ethertoff.osp.kitchen/raw/roi.md"
+curl -O "http://ethertoff.osp.kitchen/raw/to-do.md"
+curl -O "http://ethertoff.osp.kitchen/raw/style.css"
 
