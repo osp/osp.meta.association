@@ -48,29 +48,21 @@ Any modifications of the judicial district is of the exclusive competence of the
 
 ###Article 3 : But, objet social poursuivi, champ d’action
 
-L’association OSP a pour objectif central de diffuser la culture libre et open source à Bruxelles et internationalement.
+The association OSP has as its main goal to diffuse Free and Open Source culture in Brussels and internationally. More specifically, OSP aims to stimulates the social movements of Free Culture and Free Software.
 
-Le mouvement de la culture libre puise sa philosophie de celle du logiciel libre, qui veut que les logiciels informatiques ont un code source . Sont stimu
+Free Culture and Free Software challenge the excesses of copyright and the ideas that underly copyright: the ideas of originality and of artistic creation as a solitary act. Instead they propose a vision of artistic creation that includes collaboration, exchange and creative re-appropriation.
 
-La culture libre
+Free Culture chooses not to reject copyright outright, but to appropriate and subvert it with its own means (also known as ‘copyfight’). Participants in Free Culture choose to distribute artistic works under a license that permits others many of the freedoms normally lacking in traditional copyright licenses: the freedom to freely use the works, modify them and redistribute the modified copies.
 
-Elle vise à stimuler une écosystème de pratiques qui rompent avec l’idée de création _ex nihilo_ et solitaire afin de favoriser l’échange et la réappropriation des œuvres. Elle vise également à investiguer sur le rôle des outils en particulier logiciels dans le processus de création, mène des projets graphiques commissionnés ou auto-initiés qui visent à tester les idées et outils développéesdans des conditions professionnelles et à diffuser ces modèles alternatif d’organisation du travail.
+Free Software as a concept applies to computer software. An example of a Free Software license is the GNU General Public License. Free Culture as a concept applies to other cultural works such as designs, drawings, compositions, texts. An example of a Free Culture license is the Free Art License and  the Creative Comments Attribution Share-alike license.
 
-*The association OSP has as its main goal to diffuse free and open source culture in Brussels and internationally. [E: From last meeting—what is free and open source culture?] It aims at stimulates an ecosystem of practices breaking up with the idea of ex nihilo and solitary creation in order to favor sharing and reappropriation of works. It also wants to research the role of tools (more particularly software) on the creative process and conduct graphical projects (commissioned or self-initiated) that aim to test OSP’s the ideas and tools developed by OSP in professional conditions. Finally it wants to diffuse its alternative models of organisation and work.*
+Free Culture and Free Software are a part of what is in the popularly known as ‘Open Source’. More specifically Free Culture and Free Software are ‘share-alike’: that is to say, a work of Free Culture and of Free Software can only be used by others if the resulting work is also licensed as Free. They can thus be seen as to be concerned with creating an alternative ecology that features a different way of dealing with intellectual property; an ecosystem that can exist next to but can not easily be fully appropriated by the existing privative regimes of intellectual property.
 
-Elle poursuit la réalisation de son but par tous les moyens. 
+While one can make Free Culture with proprietary software, and one can use Free Software to produce creative works under traditional copyright licenses, OSP stimulates the use of Free Software to create Free Culture.
 
-Ses activités se concentrent notamment sur trois axes : pédagogie, recherche et création graphique.
+OSP pursues the realisation of its goal by all means but in particular its activities focus on three axes: pedagogy, research and graphical creation. The association is produced by organising public events (Print Parties), workshops, performances, exhibitions and lectures. Editing and publishing can also be means to serve its goal.
 
-L’association se produit publiquement par l’animation d’événements publics (Print Parties), d’ateliers, de workshops, de performances, d’expositions et de conférences. L’édition et la publication peuvent aussi être des moyens de servir son objectif. 
-
-L’association réalise ce but en étroite collaboration avec ses membres. 
-
-Elle peut faire tout acte se rattachant directement ou indirectement à son but ou pouvant en amener le développement et en faciliter la réalisation. 
-
-*It pursues the realization of its goal by all means but in particular its activities focus on three axes: pedagogy, research and graphical creation. The association is produced by organizing public events (Print Parties), workshops, performances, exhibitions and lectures. Editing and publishing can also be means to serve its goal.*
-
-*The association produces its goal by all means, in close collaboration with its members. It can make any act linked, directly or undirectly, in whole or in part, to its goal or capable to lead to its development or facilitate its realization.*
+The association produces its goal by all means, in close collaboration with its members. It can make any act linked, directly or indirectly, in whole or in part, to its goal or capable to lead to its development or facilitate its realisation.
 
 ###Article 4 : Durée de l’association
 
