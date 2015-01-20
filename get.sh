@@ -3,4 +3,5 @@ curl -O "http://ethertoff.osp.kitchen/raw/asbl-statutes.md"
 curl -O "http://ethertoff.osp.kitchen/raw/roi.md"
 curl -O "http://ethertoff.osp.kitchen/raw/to-do.md"
 curl -O "http://ethertoff.osp.kitchen/raw/style.css"
+curl -O "http://ethertoff.osp.kitchen/raw/registre.md"
 

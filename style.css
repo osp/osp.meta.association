@@ -13,7 +13,7 @@
 @mono: Not Courier Sans;
 @font-size: 17px;
 @font-size-small: 12px;
-@line-height: 23px;
+@line-height: 24px;
 
 
 /* BLOCKS -------------------------------------  */
@@ -115,9 +115,12 @@ hr + hr {
 }
 
 code, pre {
-    font-family: @mono;
-    font-size: @font-size;
+    font-family: @mono !important;
+    font-size: @font-size-small;
     white-space: pre-wrap;
+    line-height: 0.9em !important;
+    color: #cc6600;
+  
 }
 pre {
     padding: @line-height;
@@ -574,11 +577,15 @@ div#go-up {
 .CodeMirror {
     height: inherit !important;
     /*outline: 1px solid blue;*/
+  	line-height: 1.5em !important;
+  	
 }
 
 .CodeMirror-sizer {
     min-width: inherit !important;
+		line-height: 1.5em !important;
 }
+
 
 
 /* P R I N T */
