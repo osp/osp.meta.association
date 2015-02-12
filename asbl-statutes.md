@@ -170,7 +170,7 @@ Les membres ne sont astreints à aucun droit d’entrée, ni à aucune cotisatio
 
 ### Article XI : Composition
 
-Le R.O.I. determine quelles catégories des membres forment l’assemblée générale. Eux et les administrateurs auront le droit de vote. L’assemblée générale est présidée par un administrateur désigné en préambule à chaque réunion. D'autres types de membres désignés dans le R.O.I. peuvent y assister mais auront pas de droit de vote.
+La R.O.I. determine quelles catégories des membres forment l’assemblée générale. Eux et les administrateurs auront le droit de vote. L’assemblée générale est présidée par un administrateur désigné en préambule à chaque réunion. D'autres types de membres désignés dans la R.O.I. peuvent y assister mais auront pas de droit de vote.
 
 
 ### Article XII : Pouvoirs
@@ -188,13 +188,13 @@ L’assemblée générale est le pouvoir souverain de l’association. Elle est 
 - la décision de la destination de l’actif en cas de dissolution de l’association;  
 - tous les cas exigés dans les statuts.  
 - l’admission de nouveaux membres ;  
-- l’approbation du règlement d’ordre intérieur et ses modifications;  
+- l’approbation de la récette d’ordre intérieur et ses modifications;  
 - décider d’intenter une action en responsabilité contre tout membre de l’association, tout  administrateur, tout vérificateur aux comptes (ou commissaire aux comptes), toute personne habilitée à représenter l’association ou tout mandataire désigné par l’assemblée générale.
 
 
 ### Article XIII : Convocation – Assemblée générale ordinaire
 
-Le R.O.I. décrit quels membres sont convoqués à l’assemblée générale ordinaire, qui aura lieu au moins une fois par an dans le courant du mois de mai.
+La R.O.I. décrit quels membres sont convoqués à l’assemblée générale ordinaire, qui aura lieu au moins une fois par an dans le courant du mois de mai.
 
 <!-- *The ROI describes which  members are invited to the annual general meeting, which takes place at least once a year in May.*-->
 
