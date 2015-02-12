@@ -60,7 +60,7 @@ La culture libre et les logiciels libres remettent en question les excès du dro
 
 <!-- *Free Culture and Free Software challenge the excesses of copyright and the ideas which underly copyright: the ideas of originality and of artistic creation as a solitary act. Instead they propose a vision of artistic creation that includes collaboration, exchange and creative re-appropriation.* -->
 
-La culture libre ne rejette pas le droit d'auteur, mais ses abus et détournements à des fins intéressées (aussi connus sous le nom de “copyfight”). Les participants de la culture libre font le choix de distribuer leur travail artistique sous une licence qui permet aux autres la plupart des libertés faisant défaut dans les licences privatives standard : à savoir, la liberté d'utiliser l'œuvre librement, de la modifier et d'en redistribuer des copies modifiées.
+La culture libre ne rejet pas le droit d'auteur dans son entiereté, mais se l’approprie et le subvertit par ses propres moyens (aussi connus sous le nom de “copyfight”). Les participants de la culture libre font le choix de distribuer leur travail artistique sous une licence qui permet aux autres la plupart des libertés faisant défaut dans les licences privatives standard : à savoir, la liberté d'utiliser l'œuvre librement, de la modifier et d'en redistribuer des copies modifiées.
 
 <!-- *Free Culture chooses not to reject copyright outright, but to appropriate and subvert it with its own means (also known as “copyfight”). Participants in Free Culture choose to distribute artistic works under a license which permits others many of the freedoms normally lacking in traditional copyright licenses: the freedom to freely use the works, modify them and redistribute the modified copies. -->
 
