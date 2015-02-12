@@ -11,9 +11,9 @@
 @serif: Domine;
 @sans: Quattrocento Sans;
 @mono: Not Courier Sans;
-@font-size: 17px;
+@font-size: 14px;
 @font-size-small: 12px;
-@line-height: 24px;
+@line-height: 18px;
 
 
 /* BLOCKS -------------------------------------  */
@@ -42,29 +42,32 @@ body {
 /* Style des niveaux de titre */
 h1, h2, h3, h4, h5, h6 {
     font-size: @font-size; 
-    font-weight: bold;
     font-family: @serif;
-    margin: 0;
-    margin-top: @line-height;
-    padding-top: @line-height;
     clear: both;
 }
 h1 {
-    font-size: @font-size;
-    line-height: @line-height;
+    font-size: 30px;
+    line-height: 45px;
     font-family: HerscheyFutura;
-    font-weight: normal;
+  	margin-bottom: 27px;
 }
 
 h2 {
-    font-size: @font-size;
+    font-size: @font-size + 8;
+    font-family: HerscheyFutura;
+    margin-bottom: 1em;
+    margin-top:2em;
+}
+
+h3 {
     font-family: HerscheyFutura;
     font-weight: normal;
-}
-h3 {
-    margin: @line-height 0;
-    font-family: @sans;
-    font-weight: normal;
+    text-transform: uppercase;
+    font-size: @font-size -3;
+    line-height: 24px;
+    margin: 9px;
+  letter-spacing:0.05em;
+
 }
 h4 {
     text-decoration: underline;
@@ -576,8 +579,9 @@ div#go-up {
 
 .CodeMirror {
     height: inherit !important;
-    /*outline: 1px solid blue;*/
+    outline: 1px solid lightblue;
   	line-height: 1.5em !important;
+    font-family: @mono !important;
   	
 }
 
