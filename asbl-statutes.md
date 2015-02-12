@@ -110,29 +110,29 @@ Le conseil d'administration (CA) est composé de : <!-- *The board is formed by 
 
 ### Article VI : Membres 
 
-Différentes catégories de membres sont définis dans la Recette d'ordre intérieur. Parmi eux, deux groupes ont un droit de vote égal : les membres effectifs et les membres sources.
+Différentes catégories de membres sont définis dans la Recette d'ordre intérieur, avec des différents droit de vote.
 
-<!-- *Different categories of members are defined in the Recipe of Interior Order. Among them, two groups have voting rights : effectifs members and sources members.* -->
+<!-- *Different categories of members are defined in the Recipe of Interior Order, with different voting rights.* -->
 
 
 ### Article VII
 
-Un rôle d'“intendant” chargé de faire le lien entre membres effectifs et le conseil d'administration est mis en place. Choisi par les membres effectifs selon un rythme et des critères précisés dans la Recette d'ordre intérieur, l'intendant est chargé d'effectuer un rapport des activités menées par les membres effectifs au minimum une fois par trimestre. Ce rapport peut prendre la forme d'un mail ou d'une rencontre avec l'un ou plusieurs des membres du CA.
+Un rôle d'“intendant” chargé de faire le lien entre membres et le conseil d'administration est mis en place. Choisi par les membres selon un rythme et des critères précisés dans la Recette d'ordre intérieur, l'intendant est chargé d'effectuer un rapport des activités menées par les membres au minimum une fois par trimestre. Ce rapport peut prendre la forme d'un mail ou d'une rencontre avec l'un ou plusieurs des membres du CA.
 
-<!-- *A steward role is established. The steward makes the connection between the effectives members and board. He/she's elected from the effective members following a rhythm and criterias precised in the Recipe of Interior Order. The steward is responsible to report effective members activities at least once a quarter. This report can be sent via mail or be a meeting with one or more board members.* -->
+<!-- *A steward role is established. The steward makes the connection between the members and board. He/she's elected from the members following a rhythm and criterias precised in the Recipe of Interior Order. The steward is responsible to report effective members activities at least once a quarter. This report can be sent via mail or be a meeting with one or more board members.* -->
 
 
 ### Article VIII : Démission – suspension – exclusion de membres et membres réputés démissionnaires
 
-Tout membre effectif ou adhérent est libre de se retirer de l’association en adressant par courriel sa démission au conseil d’administration.
+Tout membre est libre de se retirer de l’association en adressant par courriel sa démission au conseil d’administration.
 
 Est réputé démissionnaire : 
 
-- le membre effectif qui n’assiste pas ou qui ne se fait pas représenter à 3 assemblées générales consécutives.  
+- le membre qui n’assiste pas ou qui ne se fait pas représenter à 3 assemblées générales consécutives si sa présence est demandé selon le recette d’ordre intérieur.  
 
-L’exclusion d’un membre effectif ne peut être prononcée que par l’assemblée générale à la majorité des 2/3 des voix présentes ou représentées. Le conseil d’administration peut suspendre, jusqu’à décision de l’assemblée générale, les membres qui se seraient rendus coupables d’infraction grave aux statuts ou aux lois.
+L’exclusion d’un membre ne peut être prononcée que par l’assemblée générale à la majorité des 2/3 des voix présentes ou représentées. Le conseil d’administration peut suspendre, jusqu’à décision de l’assemblée générale, les membres qui se seraient rendus coupables d’infraction grave aux statuts ou aux lois.
 
-L’exclusion d’un membre effectif requiert les conditions suivantes : 
+L’exclusion d’un membre requiert les conditions suivantes : 
 
 1. La mention dans l’ordre du jour de l’assemblée générale de la proposition d’exclusion avec la mention, au moins sommaire, de la raison de cette proposition.
 2. La convocation régulière d’une assemblée générale où tous les membres effectifs doivent être convoqués.
@@ -147,11 +147,11 @@ La qualité de membre se perd automatiquement par le décès ou, s’il s’agit
 Le membre démissionnaire, suspendu ou exclu, ainsi que les héritiers ou ayants droit du membre décédé, n’ont aucun droit sur le fonds social de l’association. Ils ne peuvent réclamer ou requérir ni relevé, ni reddition de compte, ni apposition de scellés, ni inventaires, ni le remboursement des cotisations versées. 
 
 
-### Article IX : Registre des membres effectifs
+### Article IX : Registre des membres
 
-L’association doit tenir un registre des membres effectifs, sous la responsabilité du conseil d’administration. 
+L’association doit tenir un registre des membres, sous la responsabilité du conseil d’administration. 
 
-Toute décision d’admission, de démission ou d’exclusion de membres effectifs est inscrite au registre à la diligence du conseil d’administration dans les quinze jours de la connaissance que le conseil a eu des modifications intervenues. 
+Toute décision d’admission, de démission ou d’exclusion de membres est inscrite au registre à la diligence du conseil d’administration dans les quinze jours de la connaissance que le conseil a eu des modifications intervenues. 
 
 Tous les membres peuvent consulter, au siège social de l’association, le registre des membres, ainsi que tous les procès-verbaux et décisions de l’assemblée générale, du conseil d’administration, de même que tous les documents comptables de l’association, sur simple demande écrite et motivée adressée au conseil d’administration. Les membres sont tenus de préciser les documents auxquels ils souhaitent avoir accès. Le conseil d’administration convient d’une date de consultation des documents avec les membres. Cette date est fixée dans un délai d’un mois à partir de la réception de la demande. 
 
@@ -170,7 +170,7 @@ Les membres ne sont astreints à aucun droit d’entrée, ni à aucune cotisatio
 
 ### Article XI : Composition
 
-L’assemblée générale est composée de tous les membres effectifs et présidée par un administrateur désigné en préambule à chaque réunion. D'autres types de membres désignés dans le R.O.I. peuvent y assister mais seuls les administrateurs, les membres effectifs et membres sources ont le droit de vote.
+Le R.O.I. determine quelles catégories des membres forment l’assemblée générale. Eux et les administrateurs auront le droit de vote. L’assemblée générale est présidée par un administrateur désigné en préambule à chaque réunion. D'autres types de membres désignés dans le R.O.I. peuvent y assister mais auront pas de droit de vote.
 
 
 ### Article XII : Pouvoirs
@@ -194,9 +194,9 @@ L’assemblée générale est le pouvoir souverain de l’association. Elle est 
 
 ### Article XIII : Convocation – Assemblée générale ordinaire
 
-Tous les membres effectifs sont convoqués à l’assemblée générale ordinaire, au moins une fois par an dans le courant du mois de mai.
+Le R.O.I. décrit quels membres sont convoqués à l’assemblée générale ordinaire, qui aura lieu au moins une fois par an dans le courant du mois de mai.
 
-<!-- *All effective members are invited to the annual general meeting at least once a year in May.*-->
+<!-- *The ROI describes which  members are invited to the annual general meeting, which takes place at least once a year in May.*-->
 
 L’assemblée générale est convoquée par l’administrateur désigné par le conseil d’administration, par courriel au moins quinze jours avant la date de celle-ci. La convocation doit préciser la date, l’heure, le lieu et l’ordre du jour. 
 
@@ -214,7 +214,7 @@ L’assemblée générale doit être convoquée par le conseil d’administratio
 
 ### Article XV : Représentation
 
-Tout membre effectif peut se faire représenter par un autre membre effectif à qui il donne procuration écrite ou par courriel. Tout membre effectif ne peut détenir qu’une procuration. 
+Tout membre peut se faire représenter par un autre membre à qui il donne procuration écrite ou par courriel. Tout membre ne peut détenir qu’une procuration. 
 
 Les décisions sont prises à la majorité simple des voix présentes ou représentées, sauf dans le cas où il en est décidé autrement par la loi ou les présents statuts. 
 
