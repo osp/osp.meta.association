@@ -6,6 +6,11 @@
     src: url(../../uploads/herscheyfutura-webfont.ttf);
 }
 
+@font-face {
+    font-family: Belgika;
+    src: url(../../uploads/Belgika-8th.otf);
+}
+
 
 @color: blue;
 @serif: Domine;
@@ -48,19 +53,20 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
     font-size: 30px;
     line-height: 45px;
-    font-family: HerscheyFutura;
+    font-family: Belgika;
   	margin-bottom: 27px;
 }
 
 h2 {
     font-size: @font-size + 8;
-    font-family: HerscheyFutura;
+    line-height: 30px;
+    font-family: Belgika;
     margin-bottom: 1em;
     margin-top:2em;
 }
 
 h3 {
-    font-family: HerscheyFutura;
+    font-family: Belgika;
     font-weight: normal;
     text-transform: uppercase;
     font-size: @font-size -3;
