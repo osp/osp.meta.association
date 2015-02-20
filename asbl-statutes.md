@@ -237,7 +237,13 @@ Tout membre peut se faire représenter par un autre membre à qui il donne procu
 
 Les décisions sont prises à la majorité simple des voix présentes ou représentées, sauf dans le cas où il en est décidé autrement par la loi ou les présents statuts. 
 
-En cas de partage des voix, le point est reporté à la prochaine assemblée générale. 
+En cas de partage des voix, le point est reporté à la prochaine assemblée générale.
+
+<!-- Any member can be represented by an other member so long as the former gives procuration either written or by email. One member can hold only one procuration.
+
+Decisions are made by simple majority of the votes of present members, except in the case where it is decided otherwise by the law or by these statutes.
+
+In the case of equal amount of votes for and against, the point is carried over to the next general assembly.-->
 
 ### Article XVI : Modifications statutaires et dissolutions
 
@@ -245,10 +251,16 @@ L’assemblée générale ne peut valablement délibérer sur la dissolution de 
 
 Toute modification aux statuts ou décision relative à la dissolution doit être déposée, dans le mois de sa date, au greffe du tribunal de commerce pour publication aux Annexes du Moniteur belge. Il en est de même pour toute nomination ou cessation de fonction d’un administrateur, d’une personne habilitée à représenter l’association, d’une personne déléguée à la gestion journalière ou d’un vérificateur aux comptes. 
 
+<!-- The general assembly can only discuss the dissulution of the association validly by respecting the law of the 27th june 1921, adapted and modified by the law of the 2nd may 2002.
+
+Any modification of the statuts or decision relative to the dissulution must be deposited, whithin a month, to the greffe du tribunal of commerce for publication as an annexes to the Moniteur belge. Similarly for any nomination or cessation of activity for an administrator, a person able to represent the association, a daily management delegate or a financial delegate. --> 
+
 
 ### Article XVII : Publicité des décisions prises par l’assemblée générale
 
 Les convocations et procès-verbaux, dans lesquels sont consignées les décisions de l’assemblée générale, ainsi que tous les documents comptables, sont signés par un administrateur. Ils sont conservés dans un registre et peuvent y être consultés par tous les membres et par des tiers s’ils en justifient la raison et que celle-ci est acceptée par le conseil d’administration. 
+
+<!-- Summons and minutes that contain general assembly decisions, along with accounting documents, must be signed by an administrator. They are to be kept in a registrer and can be viewed by any member or third party as long a valid reason is provided, and approved by the board.
 
 ## Titre V - Conseil d’administration
 
@@ -261,13 +273,24 @@ L’association est administrée par un conseil d’administration composé de t
 - Les administrateurs sortants sont rééligibles.
 - En cas de vacance d’un mandat, un administrateur peut être nommé à titre provisoire par l’assemblée générale.
 
+<!-- The association is administered by a board of at least three and at most five, named and revocable by the general assembly. The applications for the board must arrive by email and be signed by at least five effective members after having physically met or by phone or other telematic means or any way of getting a feel for the texture of the voice of the candidate. This must be done at least thirty days before the general assembly. The sum of administrators will always remain inferior to the amount of effective members of the general assembly.
+
+- The lenght of the mandate is illimited
+- The mandate expires only by resignation, revocation or death. 
+- Ex administators are elligible for reelection.
+- In case of a sabatical of mandate, a temporary adminstator can be named by the general assembly. -->
+
 ### Article XIX : Démission
 
 Tout administrateur qui veut démissionner doit signifier sa décision par courriel au conseil d’administration. 
 
+<!-- Any administrator who wishes to resign must make his decision known by email to the board.-->
+
 ### Article XX : Fréquence des réunions
 
 Le conseil d’administration se réunit dès que les besoins s’en font sentir. Il est convoqué à la demande de trois administrateurs au moins. Il est présidé par un administrateur désigné en préambule à chaque réunion.
+
+<!-- The board meets whenever there is a need for a meeting. It is summoned when at least three administrators make the request. Board meetings are presided by one administrator appointed before each meeting. -->
 
 ### Article XXI : Délibération
 
@@ -275,11 +298,20 @@ Le conseil d’administration délibère valablement dès que la moitié de ses 
 
 En cas de partage des voix, et après avoir épuisé les possibilités de tours suivants,  le point est reporté au prochain conseil d’administration.
 
+<!-- The board deliberates validly as long as at least half of it's members are present or have correct representation. Their decisions are made by simple majority of the present or represented votes.
+
+In the case of equal amount of votes for and against, the point is carried over to the next general assembly. -->
+
+
 ### Article XXII : Pouvoirs
 
 Le conseil d’administration a les pouvoirs les plus étendus pour l’administration et la gestion de l’association. Le conseil d’administration fonctionne sur le principe du collège. Toutes les attributions qui ne sont pas expressément réservées par la loi ou les statuts à l’assemblée générale seront exercées par le conseil d’administration. 
 
 Il peut notamment, sans que cette énumération soit limitative, faire et passer tous les actes et contrats, ouvrir et gérer tout compte bancaire, transiger, compromettre, acquérir, échanger, vendre tout bien, meuble ou immeuble, hypothéquer, emprunter, conclure des baux, accepter tout leg, subside, donation et transfert, renoncer à tout droit, représenter l’association en justice, tant en défendant qu’en demandant. Il peut aussi nommer et révoquer le personnel de l’association. 
+
+<!-- The board has the most extended powers for the administration and general managing of the association. The board works upon a collegiate principal. All attributions that are not expressively reserved by law or by these statutes to the general assembly are exercised by the board.
+
+It can, non exclusively, approve contracts, open and manage bank accounts, deal, compromise, acquire, exchange or sell any goods, material or immaterial, mortgage, borrow, deal leases, accept legacy, subsidy, donation and transfer, refuse any rights to represent the association in court, both as defendant or procecutor. It can also name and refuse the staff of the association.-->
 
 ### Article XXIII : Délégation à la gestion journalière
 
@@ -288,13 +320,26 @@ Le conseil d’administration peut déléguer certains pouvoirs à plusieurs per
 Les pouvoirs de l’organe de gestion journalière sont limités aux actes de gestion quotidienne de l’association qui permet d’accomplir les actes d’administration :
 
 - qui ne dépassent pas les besoins de la vie quotidienne de l’asbl;
-- qui, en raison de leur peu d’importance et de la nécessité d’une prompte solution, ne justifient pas l’intervention du conseil d’administration. La durée du mandat des délégués à la gestion journalière, éventuellement renouvelable, est fixée par le conseil d’administration. Quand le délégué à la gestion journalière exerce également la fonction d’administrateur, la fin du mandat d’administrateur entraîne automatiquement la fin du mandat du délégué à la gestion journalière.  
+- qui, en raison de leur peu d’importance et de la nécessité d’une prompte solution, ne justifient pas l’intervention du conseil d’administration.
+- La durée du mandat des délégués à la gestion journalière, éventuellement renouvelable, est fixée par le conseil d’administration. Quand le délégué à la gestion journalière exerce également la fonction d’administrateur, la fin du mandat d’administrateur entraîne automatiquement la fin du mandat du délégué à la gestion journalière.  
 
 Le conseil d’administration peut, à tout moment et sans qu’il doive se justifier, mettre fin à la fonction exercée par la personne chargée de la gestion journalière. 
+
+<!-- The board can delegate some of its powers to one or more people, administrators or not, acting collaboratively.
+
+The powers of the daily management body are limited to daily management tasks which involve:
+
+- no task going beyond the needs of the daily activities of the association
+- no task which, with regards to their low level of importance and the necessity of a promt solution do not justify the intervetion of the board. 
+- The lenght of the mandate of these management delegations, eventually renewable, is to be determined by the board. When the management delegate also holds an administrative role, the end of the administators mandate directly includes the end of the management delegation.
+
+The board can, at any moment and without necessary justification, end the functions of a management delegate. -->
 
 ### Article XXIV : Représentation
 
 L’association peut être valablement représentée dans tous les actes ou en justice par deux administrateurs au moins désignés par le conseil d’administration agissant conjointement qui, en tant qu’organe, ne devront pas justifier vis-à-vis des tiers d’une décision préalable et d’une procuration du conseil d’administration.
+
+<!-- The association can validly be represented in court by at least two administators, appointed by the board, acting collaboratively and who, as a body, will not be required to justify any earlier decision made by the board regarding a third member or administrator. -->
 
 
 
