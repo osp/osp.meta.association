@@ -1,3 +1,12 @@
+<!-- 
+Loi ASBL : http://www.ejustice.just.fgov.be/cgi_loi/change_lg.pl?language=fr&la=F&table_name=loi&cn=1921062701
+
+http://www.ejustice.just.fgov.be/cgi_loi/change_lg.pl?language=nl&la=N&cn=1921062701&table_name=wet
+
+Statuts ASBL Parlement Jeunesse : http://www.ejustice.just.fgov.be/tsv_pdf/2011/11/23/11176583.pdf
+-->
+
+
 # OSP ASBL STATUTS
 
 Les soussignés : <!---*The undersigned: -->
@@ -5,8 +14,8 @@ Les soussignés : <!---*The undersigned: -->
 - Bram Crevits – BE – Paul Frederiqstraat 80, 9000 Gent
 - Nik Gaffney – AU –  rue des Minimes 60, 1000 Bruxelles
 - Catherine Lenoble – FR – adresse
-- Femke Snelting – NL – adresse
-- Maxime Lambrecht – ?? – adresse
+- Femke Snelting – NL – Av. Julien Hanssens 42, 1080 Bruxelles
+- Maxime Lambrecht – BE – adresse
 
 ont convenu de constituer une association sans but lucratif conformément à la loi du 27 juin 1921, adaptée et modifiée par la loi du 2 mai 2002, dont ils ont arrêté les statuts comme suit : 
 
@@ -18,7 +27,7 @@ ont convenu de constituer une association sans but lucratif conformément à la 
 ### Article I : Dénomination
 <!-- Article I: Denomination -->
 
-L’association est dénommée «Open Source Publishing», en abrégé «OSP». Cette dénomination doit figurer dans tous les actes, factures, annonces, publications, lettres, notes de commande et autres documents émanant de l’association, et être immédiatement précédée ou suivie des mots «association sans but lucratif» ou «vereniging zonder winstoogmerk», ou bien de l’abréviation «asbl» / «vzw», avec l’indication précise de l’adresse du siège de l’association. 
+L’association est dénommée «Open Source Publishing A.S.B.L.», en abrégé «OSP». Cette dénomination doit figurer dans tous les actes, factures, annonces, publications, lettres, notes de commande et autres documents émanant de l’association, et être immédiatement précédée ou suivie des mots «association sans but lucratif» ou «vereniging zonder winstoogmerk», ou bien de l’abréviation «asbl» / «vzw», avec l’indication précise de l’adresse du siège de l’association. 
 
 <!---*The association is named “Open Source Publishing”, abbreviated into “OSP”. This name has to figure in all acts, bills, notices, publications, letters, order forms and all other documents coming from the association, and has to be immediately preceded or followed by the terms “non-profit association” or the abbreviation “asbl” or “vzw”, with the precise indication of the address of the registered office of the association.*-->
 
@@ -40,7 +49,7 @@ L’association OSP a pour but principal de diffuser la culture libre et Open So
 
 La culture libre et les logiciels libres remettent en question les excès du droit d’auteur et notamment l’un des principes qui lui sous-tendent : l’idée d’originalité et de création artistique comme acte solitaire. Lui préférant une vision artistique de la création où collaboration, échange et ré-appropriation participent de l’acte créatif.
 
-<!-- *Free Culture and Free Software challenge the excesses of copyright and the ideas which underly copyright: the ideas of originality and of artistic creation as a solitary act. Instead they propose a vision of artistic creation which includes collaboration, exchange and creative re-appropriation.* -->
+<!-- *Free Culture and Free Software challenge the excesses of copyright and one of the ideas which underly copyright: the ideas of originality and of artistic creation as a solitary act. Instead they propose a vision of artistic creation which includes collaboration, exchange and creative re-appropriation.* -->
 
 La culture libre ne rejette pas le droit d’auteur dans son entièreté, mais se l’approprie et le subvertit par ses propres moyens (aussi connus sous le nom de “copyfight”). Les participants de la culture libre font le choix de distribuer leur travail artistique sous une licence qui permet aux autres la plupart des libertés faisant défaut dans les licences privatives standard : à savoir, la liberté d’utiliser l’œuvre librement, de la modifier et d’en redistribuer des copies modifiées.
 
@@ -60,7 +69,7 @@ Si l’on peut aussi développer la culture libre avec des logiciels propriétai
 
 OSP asbl cherche à atteindre ses objectifs par tout moyen mais plus particulièrement au travers de trois axes : la pédagogie, la recherche et le design graphique. OSP asbl donne des workshops dans le cadre d’institutions pédagogiques traditionnelles et organise des événements alternatifs hors de ce cadre pour questionner plus avant comment la culture libre peut changer la pédagogie existante. En collaboration avec des institutions culturelles et pédagogiques, OSP asbl est capable de développer à la fois un environnement théorique mais surtout des outils ouverts garants de cette position. En s’engageant dans une pratique de design graphique, que ce soit dans ses projets auto-initiés ou commissionnés, les hypothèses de sa recherche sont testées en pratique et de nouveaux questionnements en découlent. Enfin, l’édition et la publication sont encore d’autres moyens d’atteindre les objectifs d’OSP asbl, au même titre que les événements publics: *print parties*, workshops, performances, expositions et conférences.
 
-<!-- OSP asbl pursues the realization of its goal by all means but more specifically through three axis: pedagogy, research and graphic design. OSP asbl gives workshops in the frame of traditional educational institutions and organizes alternative events outside of that frame which further question how Free Culture can change existing pedagogy. In collaboration with cultural or educational institutions, OSP asbl is able both to develop a theoretical framework and the open tools which exemplify this position. By engaging in graphic design practice, both as part of its own projects and those of others, the hypotheses from the research are tested in practice, and new questions arise. Finally, editing and publishing are a means to serve OSP asbl goal, as are public events: print parties, workshops, performances, exhibitions and lectures. -->
+<!-*- OSP asbl pursues the realization of its goal by all means but more specifically through three axis: pedagogy, research and graphic design. OSP asbl gives workshops in the frame of traditional educational institutions and organizes alternative events outside of that frame which further question how Free Culture can change existing pedagogy. In collaboration with cultural or educational institutions, OSP asbl is able both to develop a theoretical framework and the open tools which exemplify this position. By engaging in graphic design practice, both as part of its own projects and those of others, the hypotheses from the research are tested in practice, and new questions arise. Finally, editing and publishing are a means to serve OSP asbl goal, as are public events: print parties, workshops, performances, exhibitions and lectures.* -->
 
 ###Article IV : Durée de l’association
 <!-- Period of the association -->
@@ -72,28 +81,20 @@ L’association est constituée pour une durée indéterminée. Elle peut être 
 ## Titre II - Membres
 <!-- Title II - Members -->
 
-### Article V : Composition du conseil d’administration
-<!-- Article V: Composition of the administrative board -->
+### Article V : Membres 
+<!-- Article V: Members -->
 
-Le conseil d’administration est composé de : <!-- *The administrative board is formed of :-->
-
-- Bram Crevits  
-- Nik Gaffney 
-- Catherine Lenoble 
-- Femke Snelting
-- Maxime Lambrecht
-
-### Article VI : Membres 
-<!-- Article VI: Members -->
-
-Différentes catégories de membres sont définis dans la Recette d’ordre intérieur (ROI), avec différents droit de vote.
+L'association est composée de membres effectifs, de membres sources et de membres adhérents.
+Le nombre de membres effectifs ne peut être inférieur à trois.
 
 <!-- *Different categories of members are defined in the Recipe of Interior Order (ROI), with different voting rights.* -->
+
+
 
 ### Article VII : Rôle d’intendant et rapports
 <!-- Article VII: Role of the steward and reports -->
 
-Un rôle d’intendant chargé de faire le lien entre les membres et le conseil d’administration est mis en place. Choisi par les membres effectifs selon un rythme et des critères précisés dans la ROI, l’intendant est chargé d’effectuer un rapport des activités menées par les membres au minimum une fois par trimestre. Ce rapport peut prendre la forme d’un mail ou d’une rencontre avec l’un ou plusieurs des membres du conseil d’administration.
+Un rôle d’intendant chargé de faire le lien entre les membres et le conseil d’administration est mis en place. Choisi par les membres effectifs selon un rythme et des critères précisés dans la ROI, l’intendant est chargé d’effectuer un rapport des activités menées par les membres au minimum une fois par trimestre. Ce rapport peut prendre la forme d’un courriel ou d’une rencontre avec l’un ou plusieurs des membres du conseil d’administration.
 
 <!-- *A steward role is established. The steward makes the connection between the members and board. He/she is elected from the effective members following a rhythm and criterias precised in the Recipe of Interior Order. The steward is responsible to report effective members activities at least once a quarter. This report can be sent via mail or be a meeting with one or more board members.* -->
 
@@ -108,7 +109,7 @@ Tout membre est libre de se retirer de l’association en adressant par courriel
 
 <!-- Any member is free to disengage with the association by writing the dismissal by email to the administrative board. -->
 
-Est réputé démissionnaire le membre qui n’assiste pas ou qui ne se fait pas représenter à trois assemblées générales consécutives si sa présence est demandé selon la ROI.  
+Est réputé démissionnaire le membre qui n’assiste pas ou qui ne se fait pas représenter à trois assemblées générales consécutives si sa présence est demandée selon la ROI.  
 
 <!-- Is deemed to have resigned the member who doesn’t assist or does not get represented to three consecutive general assemblies if his/her presence is inquired by the ROI. -->
 
@@ -171,10 +172,26 @@ Les membres ne sont astreints à aucun droit d’entrée, ni à aucune cotisatio
 
 ### Article XI : Composition
 
-La ROI détermine quelles catégories de membres forment l’assemblée générale. Eux et les administrateurs auront le droit de vote. L’assemblée générale est présidée par un administrateur désigné en préambule à chaque réunion. D’autres types de membres désignés dans la ROI peuvent y assister mais n’auront pas de droit de vote.
-<!-- The ROI determines which categories of members comprise the general assembly. Those members and the administrators wil have the right to vote. The general assembly is lead by an administrator designed in the preambule in every meeting. Other types of members designed in the ROI can attend the meeting butwon't have any the right to vote. -->
+L'assemblée générale est composée de tous les membres effectifs, et des membres sources. Seules ces deux catégories de membres y ont voix délibérative.
+Les membres adhérents peuvent assister aux assemblées générales, mais n'y ont pas voix délibérative.
 
-### Article XII : Pouvoirs
+Le conseil d'administration désigne un de ces membres pour présider chaque réunion de l'assemblée générale.
+
+### Article XII : Admission
+
+Peuvent devenir membres effectifs tous les membres adhérents démontrant une pratique active et régulière au sein de l'association. Ils peuvent ensuite postuler ou être invité par un ou plusieurs des membres effectifs. Leur entrée en tant que membres effectifs est voté par les membres effectifs au cours de leur réunion ordinaire et approuvé par une majorité des 3/4 des membres effectifs et membres source présents ou représentés. L'admission ou le rejet est définitif et n’ont pas besoin d'être motivés par les membres effectifs. Il est porté à la connaissance du candidat par courriel.
+
+<!-- A PLACER DANS LE ROI
+Les membres sources sont d'anciens membres effectifs et, de membres 'sources' ils peuvent à nouveau redevenir membres effectifs, suivant les règles d'admission ci-dessus décrites.
+Ils sont invité à l'assemblée générale et y ont le droit de vote,
+mais ils ne font partie du quorum de présence (leur vote n'est donc pas obligatoire).
+-->
+
+
+<!-- !!!!!!!!! to translate !!!!!!
+ -->
+
+### Article XII bis : Pouvoirs
 
 L’assemblée générale est le pouvoir souverain de l’association. Elle est notamment compétente pour : 
 <!-- The General Assembly is the sovereign power of the association. It is in particular responsible for: -->
@@ -208,9 +225,9 @@ L’assemblée générale est le pouvoir souverain de l’association. Elle est 
 
 ### Article XIII : Convocation – Assemblée générale ordinaire
 
-La ROI décrit quels membres sont convoqués à l’assemblée générale ordinaire, qui aura lieu au moins une fois par an dans le courant du mois de mai.
+Les membres effectifs et les membres source sont convoqués à l’assemblée générale ordinaire, qui aura lieu au moins une fois par an.
 
-<!-- *The ROI describes which  members are invited to the annual general meeting, which takes place at least once a year in May.*-->
+<!-- * !!!!!!!!!!!!!!!!! The ROI describes which  members are invited to the annual general meeting, which takes place at least once a year in May.*-->
 
 L’assemblée générale est convoquée par l’administrateur désigné par le conseil d’administration, par courriel au moins quinze jours avant la date de celle-ci. La convocation doit préciser la date, l’heure, le lieu et l’ordre du jour. 
 
@@ -218,62 +235,80 @@ L’assemblée générale est convoquée par l’administrateur désigné par le
 
 ### Article XIV : Délibération
 
-L’assemblée générale délibère valablement dès que la moitié de ses membres ayant un pouvoir de vote est présente ou représentée, sauf dans le cas où la loi du 27 juin 1921, adaptée et modifiée par la loi du 2 mai 2002 exige un quorum de présences et un quorum de votes, soit la modification statutaire, l’exclusion d’un membre, la dissolution de l’asbl ou la transformation en société à finalité sociale. 
+L’assemblée générale délibère valablement dès que la moitié de ses membres ayant un pouvoir de vote est présente ou représentée, sauf dans le cas où la loi exige un quorum de présences et un quorum de votes, soit la modification statutaire, l’exclusion d’un membre, la dissolution de l’asbl ou la transformation en société à finalité sociale. 
 
 L’assemblée ne peut délibérer valablement que sur les points inscrits à l’ordre du jour. 
 
-L’assemblée générale doit être convoquée par le conseil d’administration lorsqu’un cinquième des membres en fait la demande écrite. De même, toute proposition signée par un vingtième des membres doit être portée à l’ordre du jour de l’assemblée générale suivante.
+L’assemblée générale doit être convoquée par le conseil d’administration lorsqu’un cinquième des membres en fait la demande écrite. De même, toute proposition soumise par trois membres effectifs ou source doit être portée à l’ordre du jour de l’assemblée générale suivante.
+
+Les décisions sont prises à la majorité simple des voix présentes ou représentées, sauf dans le cas où il en est décidé autrement par la loi ou les présents statuts. 
+
+En cas de partage des voix, la voix du président de l'assemblée est prépondérante.
 
 
 <!-- The general assembly can take place when half of its members with voting power are present or represented, except in cases where the law of 27 June 1921, adapted and modified by the Law of 2 May 2002 requires attendance quorum and a quorum of the vote, the statutory modification, exclusion of a member, the dissolution of the association or the transformation into a company with social purpose.
 
 The general assembly can only may validly deliberate on the items on the agenda.
 
-The general meeting shall be called by the Board of Directors when fifth of the members on the written request. Similarly, any proposal signed by one twentieth of the members must be brought to the agenda of the next general meeting. -->
-
-### Article XV : Représentation
-
-Tout membre peut se faire représenter par un autre membre à qui il donne procuration écrite ou par courriel. Tout membre ne peut détenir qu’une procuration. 
-
-Les décisions sont prises à la majorité simple des voix présentes ou représentées, sauf dans le cas où il en est décidé autrement par la loi ou les présents statuts. 
-
-En cas de partage des voix, le point est reporté à la prochaine assemblée générale.
-
-<!-- Any member can be represented by an other member so long as the former gives procuration either written or by email. One member can hold only one procuration.
+The general meeting shall be called by the Board of Directors when fifth of the members on the written request. Similarly, any proposal signed by one twentieth of the members must be brought to the agenda of the next general meeting. 
 
 Decisions are made by simple majority of the votes of present members, except in the case where it is decided otherwise by the law or by these statutes.
 
 In the case of equal amount of votes for and against, the point is carried over to the next general assembly.-->
 
+### Article XV : Représentation
+
+Tout membre peut se faire représenter par un autre membre à qui il donne procuration écrite ou par courriel. Tout membre ne peut détenir qu’une procuration. 
+
+
+
+<!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!check-- Any member can be represented by an other member so long as the former gives procuration either written or by email. One member can hold only one procuration.-->
+
 ### Article XVI : Modifications statutaires et dissolutions
 
-L’assemblée générale ne peut valablement délibérer sur la dissolution de l’association ou la modification des statuts que conformément à la loi du 27 juin 1921, adaptée et modifiée par la loi du 2 mai 2002. 
-
+L'assemblée générale ne peut valablement délibérer sur les modifications aux statuts que si les modifications sont explicitement indiquées dans la convocation et si l'assemblée réunit au moins les deux tiers des membres effectifs, qu'ils soient présents ou représentés.
+  Aucune modification ne peut être adoptée qu'à la majorité des deux tiers des voix des membres présents ou représentés.
+  Toutefois, la modification qui porte sur le ou les buts en vue desquels l'association est constituée, ne peut être adoptée qu'à la majorité des quatre cinquièmes des voix des membres présents ou représentés.
+  Si les deux tiers des membres effectifs ne sont pas présents ou représentés à la première réunion, il peut être convoqué une seconde réunion qui pourra délibérer valablement, quel que soit le nombre des membres présents ou représentés, et adopter les modifications aux majorités prévues à l'alinéa 2 ou à l'alinéa 3. La seconde réunion ne peut être tenue moins de quinze jours après la première réunion.
 Toute modification aux statuts ou décision relative à la dissolution doit être déposée, dans le mois de sa date, au greffe du tribunal de commerce pour publication aux Annexes du Moniteur belge. Il en est de même pour toute nomination ou cessation de fonction d’un administrateur, d’une personne habilitée à représenter l’association, d’une personne déléguée à la gestion journalière ou d’un vérificateur aux comptes. 
 
 <!-- The general assembly can only discuss the dissulution of the association validly by respecting the law of the 27th june 1921, adapted and modified by the law of the 2nd may 2002.
 
-Any modification of the statuts or decision relative to the dissulution must be deposited, whithin a month, to the greffe du tribunal of commerce for publication as an annexes to the Moniteur belge. Similarly for any nomination or cessation of activity for an administrator, a person able to represent the association, a daily management delegate or a financial delegate. --> 
+Any modification of the statutes or decision relative to the dissulution must be deposited, whithin a month, to the greffe du tribunal of commerce for publication as an annexes to the Moniteur belge. Similarly for any nomination or cessation of activity for an administrator, a person able to represent the association, a daily management delegate or a financial delegate. 
+
+!!!!!!!!!!!!!!!! art. 8 Loi ASBL to translate--> 
 
 
 ### Article XVII : Publicité des décisions prises par l’assemblée générale
 
 Les convocations et procès-verbaux, dans lesquels sont consignées les décisions de l’assemblée générale, ainsi que tous les documents comptables, sont signés par un administrateur. Ils sont conservés dans un registre et peuvent y être consultés par tous les membres et par des tiers s’ils en justifient la raison et que celle-ci est acceptée par le conseil d’administration. 
 
-<!-- Summons and minutes that contain general assembly decisions, along with accounting documents, must be signed by an administrator. They are to be kept in a registrer and can be viewed by any member or third party as long a valid reason is provided, and approved by the board.
+<!-- Summons and minutes that contain general assembly decisions, along with accounting documents, must be signed by an administrator. They are to be kept in a registrer and can be viewed by any member or third party as long a valid reason is provided, and approved by the board.-->
 
 ## Titre V - Conseil d’administration
 
-### Article XVIII : Nomination et nombre minimum d’administrateurs – Durée du mandat
 
-L’association est administrée par un conseil d’administration composé de trois membres au moins et de cinq au plus, nommés et révocables par l’assemblée générale. Les candidatures comme administrateur devront parvenir par courriel et être signées par au moins cinq membres effectifs après leur rencontre physique ou téléphonique ou télématique ou par un moyen approprié pour ressentir la tessiture de la voix du candidat, ceci 30 jours au moins avant l’assemblée générale. Le nombre d’administrateurs sera toujours inférieur au nombre de membres effectifs de l’assemblée générale. 
+### Article XVIII : Mandat au Conseil d'administration
 
-- La durée du mandat est illimité.
-- Leur mandat n’expire que par décès, démission ou révocation.
-- Les administrateurs sortants sont rééligibles.
-- En cas de vacance d’un mandat, un administrateur peut être nommé à titre provisoire par l’assemblée générale.
 
-<!-- The association is administered by a board of at least three and at most five, named and revocable by the general assembly. The applications for the board must arrive by email and be signed by at least five effective members after having physically met or by phone or other telematic means or any way of getting a feel for the texture of the voice of the candidate. This must be done at least thirty days before the general assembly. The sum of administrators will always remain inferior to the amount of effective members of the general assembly.
+Le conseil d’administration de l'association est composé de trois membres au moins et de cinq au plus, nommés et révocables par l’assemblée générale. 
+
+La durée du mandat est illimité. Leur mandat n’expire que par décès, démission ou révocation.
+
+### Article XVIIIbis : Election au Conseil d'administration
+
+Une élection à un poste d'administrateur non attribué a lieu sur proposition du Conseil d'administration, ou lorsqu'un tiers des membres en fait la demande. 
+
+Toute personne est éligible au poste d'administrateur de l'ASBL. Les administrateurs sortants sont rééligibles.
+
+Les candidatures comme administrateur devront parvenir par courriel et être signées par au moins trois membres effectifs après leur rencontre physique ou téléphonique ou télématique ou par un moyen approprié pour ressentir la tessiture de la voix du candidat, ceci 7 jours au moins avant l’assemblée générale. Le nombre d’administrateurs sera toujours inférieur au nombre de membres effectifs de l’assemblée générale. 
+
+
+L'élection au Conseil d'administration se fait poste par poste.
+
+L'élection est acquise à la majorité absolue des suffrages exprimés. Si aucun candidat n'obtient la majorité absolue, un tour additionnel de scrutin est organisé entre les deux candidats ayant obtenu le plus de voix au premier tour. Les candidats en situation d'égalité des voix pour la deuxième place se représentent tous au tour additionnel, et on procède à un nouveau tour de vote jusqu'à ce qu'un majorité absolue se dégage.
+
+<!-- !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! check -- The association is administered by a board of at least three and at most five, named and revocable by the general assembly. The applications for the board must arrive by email and be signed by at least five effective members after having physically met or by phone or other telematic means or any way of getting a feel for the texture of the voice of the candidate. This must be done at least thirty days before the general assembly. The sum of administrators will always remain inferior to the amount of effective members of the general assembly.
 
 - The lenght of the mandate is illimited
 - The mandate expires only by resignation, revocation or death. 
@@ -294,9 +329,9 @@ Le conseil d’administration se réunit dès que les besoins s’en font sentir
 
 ### Article XXI : Délibération
 
-Le conseil d’administration délibère valablement dès que la moitié de ses membres est présente ou représentée. Les décisions du conseil d’administration sont prises à la majorité simple des voix présentes ou représentées. 
+Le Conseil d’administration délibère valablement dès que la moitié de ses membres sont présents ou représentés. Les décisions du conseil d’administration sont prises à la majorité simple des voix présentes ou représentées. 
 
-En cas de partage des voix, et après avoir épuisé les possibilités de tours suivants,  le point est reporté au prochain conseil d’administration.
+En cas de partage des voix, et après avoir épuisé les possibilités de tours suivants, le point est reporté au prochain conseil d’administration.
 
 <!-- The board deliberates validly as long as at least half of it's members are present or have correct representation. Their decisions are made by simple majority of the present or represented votes.
 
@@ -305,9 +340,11 @@ In the case of equal amount of votes for and against, the point is carried over 
 
 ### Article XXII : Pouvoirs
 
-Le conseil d’administration a les pouvoirs les plus étendus pour l’administration et la gestion de l’association. Le conseil d’administration fonctionne sur le principe du collège. Toutes les attributions qui ne sont pas expressément réservées par la loi ou les statuts à l’assemblée générale seront exercées par le conseil d’administration. 
+Le conseil d’administration a les pouvoirs les plus étendus pour l’administration et la gestion de l’association. Le Conseil d’administration fonctionne sur un mode collégial. Toutes les attributions qui ne sont pas expressément réservées par la loi ou les statuts à l’assemblée générale seront exercées par le conseil d’administration. 
 
-Il peut notamment, sans que cette énumération soit limitative, faire et passer tous les actes et contrats, ouvrir et gérer tout compte bancaire, transiger, compromettre, acquérir, échanger, vendre tout bien, meuble ou immeuble, hypothéquer, emprunter, conclure des baux, accepter tout leg, subside, donation et transfert, renoncer à tout droit, représenter l’association en justice, tant en défendant qu’en demandant. Il peut aussi nommer et révoquer le personnel de l’association. 
+Il peut notamment, sans que cette énumération soit limitative, faire et passer tous les actes et contrats, ouvrir et gérer tout compte bancaire, transiger, compromettre, acquérir, échanger, vendre tout bien, meuble ou immeuble, hypothéquer, emprunter, conclure des baux, accepter tout leg, subside, donation et transfert, renoncer à tout droit, représenter l’association en justice, tant en défendant qu’en demandant. Il peut aussi nommer et révoquer le personnel de l’association.
+
+Le conseil d'administration adopte et révise la Recette d'Ordre Intérieur.
 
 <!-- The board has the most extended powers for the administration and general managing of the association. The board works upon a collegiate principal. All attributions that are not expressively reserved by law or by these statutes to the general assembly are exercised by the board.
 

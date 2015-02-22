@@ -7,8 +7,8 @@
 }
 
 @font-face {
-    font-family: Belgika;
-    src: url(../../uploads/Belgika-8th.otf);
+    font-family: "Belgika 8th";
+    src: url("../../uploads/Belgika-8th.otf") format("opentype");
 }
 
 
@@ -53,20 +53,20 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
     font-size: 30px;
     line-height: 45px;
-    font-family: Belgika;
+    font-family: "Belgika 8th";
   	margin-bottom: 27px;
 }
 
 h2 {
     font-size: @font-size + 8;
     line-height: 30px;
-    font-family: Belgika;
+    font-family: "Belgika 8th";
     margin-bottom: 1em;
     margin-top:2em;
 }
 
 h3 {
-    font-family: Belgika;
+    font-family: "Belgika 8th";
     font-weight: normal;
     text-transform: uppercase;
     font-size: @font-size -3;
@@ -599,6 +599,9 @@ div#go-up {
 
 
 /* P R I N T */
+
+
+
 @media print {
 	@page {
   	margin-top: 2cm;
@@ -607,7 +610,6 @@ div#go-up {
     widows: 2;
 
   }
-
   .screen-only,
   .button,
   nav span,
@@ -628,4 +630,5 @@ div#go-up {
   h1, h2, h3, h4, h5, h6 {
   	page-break-after: avoid;
   }
+
 }

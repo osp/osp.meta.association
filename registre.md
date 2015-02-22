@@ -1,4 +1,4 @@
-## Membres effectifs
+## Effectifs members
 
 - De Heij Gijs – NL – rue des Tanneurs 170, 1000 Bruxelles  
 - Huyghebaert Pierre – BE – rue Cervantes 6, 1190 Forest,  
@@ -10,20 +10,22 @@
 - Vilayphiou Stéphanie – FR – rue de l’Hôtel des Monnaies 27, 1060 Saint-Gilles
 
 
-## Membres sources
+## Sources members
 
-- Harrisson
+- Harrisson (Joel Vermot)
 - Nicolas Malevé
 - Pierre Marchand
 - John Haltiwanger
 
 
-## Membres adhérents
+## Adherent members
+
+### Branches members
  
  - Thomas Buxó  
  
  
-## Membres observateurs  
+### Observatory members 
 
 - Fabien Dehasseler
 - Greg Nijs

@@ -5,9 +5,12 @@
 ========
 
 
+## We removed to many things
+
+Maxime says that we need to put back in the various ways of how you can become member, and to be fired. How to become administrator how to be fired.
+
 ## Corrections of the statutes
 
-- we need to precise in the status what is open source *(Eric can do this)*
 - expand a bit Article 3 to be covered about the commercial non-commercial aspects
 
 Are there other parts of the statutes that still need updating?
